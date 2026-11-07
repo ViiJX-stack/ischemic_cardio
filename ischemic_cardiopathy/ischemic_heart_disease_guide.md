@@ -65,7 +65,7 @@ The Fifth Universal Definition of Myocardial Infarction (ESC/ACC/AHA/WHF, 2026) 
   - new loss of viable myocardium on imaging;
   - coronary thrombus.
 
-![Myocardial injury and acute myocardial infarction](../figures/02_lesion_vs_infarto/injury_vs_infarction_EN.png)
+![Myocardial injury and acute myocardial infarction](injury_vs_infarction_EN.png)
 
 ### 2.3 Three clinical contexts of MI (replacing types 1 to 5)
 
@@ -104,7 +104,7 @@ The Fifth Universal Definition of Myocardial Infarction (ESC/ACC/AHA/WHF, 2026) 
 
 | Acute injury | Chronic injury |
 |---|---|
-| ![Acute injury](../figures/01_mecanismos_lesion/acute_injury_EN.png) | ![Chronic injury](../figures/01_mecanismos_lesion/chronic_injury_EN.png) |
+| ![Acute injury](acute_injury_EN.png) | ![Chronic injury](chronic_injury_EN.png) |
 
 ---
 
@@ -142,8 +142,8 @@ Asymptomatic patients Â· persistent chest discomfort or symptoms (chest and prec
 
 | | |
 |---|---|
-| ![ACS 1](../figures/03_sca_esc2023/SCA_1.png) | ![ACS 2](../figures/03_sca_esc2023/SCA_2.png) |
-| ![ACS 3](../figures/03_sca_esc2023/SCA_3.png) | ![ACS 4](../figures/03_sca_esc2023/SCA_4.png) |
+| ![ACS 1](SCA_1.png) | ![ACS 2](SCA_2.png) |
+| ![ACS 3](SCA_3.png) | ![ACS 4](SCA_4.png) |
 
 ### 3.4 The ECG in ACS: RENASICA III
 
@@ -164,8 +164,8 @@ The 2023 ESC guidelines use sex- and age-specific ST-elevation thresholds in V2â
 
 | | |
 |---|---|
-| ![ECG 1](../figures/04_ecg_renasica/ecg_1.png) | ![ECG 2](../figures/04_ecg_renasica/ecg_2.png) |
-| ![ECG 3](../figures/04_ecg_renasica/ecg_3.png) | ![ECG 4](../figures/04_ecg_renasica/ecg_4.png) |
+| ![ECG 1](ecg_1.png) | ![ECG 2](ecg_2.png) |
+| ![ECG 3](ecg_3.png) | ![ECG 4](ecg_4.png) |
 
 ### 3.5 Systems of care in Mexico
 
@@ -306,8 +306,8 @@ Within 12 h of symptom onset and with no absolute contraindication.
 
 | | | |
 |---|---|---|
-| ![ICAT3 1](../figures/05_icat3/ICAT_1.png) | ![ICAT3 2](../figures/05_icat3/ICAT_2.png) | ![ICAT3 3](../figures/05_icat3/ICAT_3.png) |
-| ![ICAT3 4](../figures/05_icat3/ICAT_4.png) | ![ICAT3 5](../figures/05_icat3/ICAT_5.png) | ![ICAT3 6](../figures/05_icat3/ICAT_6.png) |
+| ![ICAT3 1](ICAT_1.png) | ![ICAT3 2](ICAT_2.png) | ![ICAT3 3](ICAT_3.png) |
+| ![ICAT3 4](ICAT_4.png) | ![ICAT3 5](ICAT_5.png) | ![ICAT3 6](ICAT_6.png) |
 
 ---
 

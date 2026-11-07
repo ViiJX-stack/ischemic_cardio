@@ -63,7 +63,7 @@ La Quinta Definición Universal del Infarto de Miocardio (ESC/ACC/AHA/WHF, 2026)
   - pérdida nueva de miocardio viable en imagen;
   - trombo coronario.
 
-![Lesión miocárdica e infarto agudo de miocardio](../figures/02_lesion_vs_infarto/lesion_vs_infarto_ES.png)
+![Lesión miocárdica e infarto agudo de miocardio](lesion_vs_infarto_ES.png)
 
 ### 2.3 Tres contextos clínicos del IM (reemplazan los tipos 1 a 5)
 
@@ -102,7 +102,7 @@ La Quinta Definición Universal del Infarto de Miocardio (ESC/ACC/AHA/WHF, 2026)
 
 | Lesión aguda | Lesión crónica |
 |---|---|
-| ![Lesión aguda](../figures/01_mecanismos_lesion/lesion_aguda_ES.png) | ![Lesión crónica](../figures/01_mecanismos_lesion/lesion_cronica_ES.png) |
+| ![Lesión aguda](lesion_aguda_ES.png) | ![Lesión crónica](lesion_cronica_ES.png) |
 
 ---
 
@@ -140,8 +140,8 @@ Pacientes asintomáticos · molestias o síntomas torácicos persistentes (dolor
 
 | | |
 |---|---|
-| ![SCA 1](../figures/03_sca_esc2023/SCA_1.png) | ![SCA 2](../figures/03_sca_esc2023/SCA_2.png) |
-| ![SCA 3](../figures/03_sca_esc2023/SCA_3.png) | ![SCA 4](../figures/03_sca_esc2023/SCA_4.png) |
+| ![SCA 1](SCA_1.png) | ![SCA 2](SCA_2.png) |
+| ![SCA 3](SCA_3.png) | ![SCA 4](SCA_4.png) |
 
 ### 3.4 El ECG en el SCA: RENASICA III
 
@@ -162,8 +162,8 @@ Las guías ESC 2023 usan umbrales de elevación del ST en V2–V3 específicos p
 
 | | |
 |---|---|
-| ![ECG 1](../figures/04_ecg_renasica/ecg_1.png) | ![ECG 2](../figures/04_ecg_renasica/ecg_2.png) |
-| ![ECG 3](../figures/04_ecg_renasica/ecg_3.png) | ![ECG 4](../figures/04_ecg_renasica/ecg_4.png) |
+| ![ECG 1](ecg_1.png) | ![ECG 2](ecg_2.png) |
+| ![ECG 3](ecg_3.png) | ![ECG 4](ecg_4.png) |
 
 ### 3.5 Sistemas de atención en México
 
@@ -304,8 +304,8 @@ Hasta 12 h del inicio de los síntomas y sin contraindicación absoluta.
 
 | | | |
 |---|---|---|
-| ![ICAT3 1](../figures/05_icat3/ICAT_1.png) | ![ICAT3 2](../figures/05_icat3/ICAT_2.png) | ![ICAT3 3](../figures/05_icat3/ICAT_3.png) |
-| ![ICAT3 4](../figures/05_icat3/ICAT_4.png) | ![ICAT3 5](../figures/05_icat3/ICAT_5.png) | ![ICAT3 6](../figures/05_icat3/ICAT_6.png) |
+| ![ICAT3 1](ICAT_1.png) | ![ICAT3 2](ICAT_2.png) | ![ICAT3 3](ICAT_3.png) |
+| ![ICAT3 4](ICAT_4.png) | ![ICAT3 5](ICAT_5.png) | ![ICAT3 6](ICAT_6.png) |
 
 ---
 

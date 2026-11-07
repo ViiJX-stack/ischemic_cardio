@@ -6,23 +6,8 @@ Bilingual teaching guide for medical students and clinicians: epidemiology in Me
 
 | Idioma / Language | Guía / Guide |
 |---|---|
-| Español | [es/guia_cardiopatia_isquemica.md](es/guia_cardiopatia_isquemica.md) |
-| English | [en/ischemic_heart_disease_guide.md](en/ischemic_heart_disease_guide.md) |
-
-## Estructura · Structure
-
-```
-ischemic_cardiopathy/
-├── README.md
-├── es/guia_cardiopatia_isquemica.md
-├── en/ischemic_heart_disease_guide.md
-└── figures/
-    ├── 01_mecanismos_lesion/    Mecanismos de lesión miocárdica aguda y crónica (ES/EN)
-    ├── 02_lesion_vs_infarto/    Lesión miocárdica vs infarto, Quinta Definición (ES/EN)
-    ├── 03_sca_esc2023/          Síndromes coronarios agudos, ESC 2023 (ES)
-    ├── 04_ecg_renasica/         SCA según el ECG, RENASICA III (ES)
-    └── 05_icat3/                Tratamiento del IAMCEST, protocolo ICAT3 (ES)
-```
+| Español | [guia_cardiopatia_isquemica.md](guia_cardiopatia_isquemica.md) |
+| English | [ischemic_heart_disease_guide.md](ischemic_heart_disease_guide.md) |
 
 ## Aviso · Disclaimer
 
