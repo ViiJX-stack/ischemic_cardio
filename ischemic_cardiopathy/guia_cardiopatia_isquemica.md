@@ -8,10 +8,11 @@
 2. [Infarto de miocardio: Quinta Definición Universal (2026)](#2-infarto-de-miocardio-quinta-definición-universal-2026)
 3. [Síndromes coronarios agudos (SCA o SICA): Guías ESC 2023](#3-síndromes-coronarios-agudos-sca-o-sica-guías-esc-2023)
 4. [SCA sin elevación del ST (SCA-SEST / IMSEST)](#4-sca-sin-elevación-del-st-sca-sest--imsest)
-5. [IAM con elevación del ST (IAMCEST): protocolo ICAT3](#5-iam-con-elevación-del-st-iamcest-protocolo-icat3)
-6. [Cardiopatía isquémica crónica y miocardiopatía isquémica](#6-cardiopatía-isquémica-crónica-y-miocardiopatía-isquémica)
-7. [Resumen: iCARDIO Alliance 2026](#7-resumen-icardio-alliance-2026)
-8. [Referencias](#8-referencias)
+5. [SCA según la Guía ACC/AHA 2025](#5-sca-según-la-guía-accaha-2025)
+6. [IAM con elevación del ST (IAMCEST): protocolo ICAT3](#6-iam-con-elevación-del-st-iamcest-protocolo-icat3)
+7. [Cardiopatía isquémica crónica y miocardiopatía isquémica](#7-cardiopatía-isquémica-crónica-y-miocardiopatía-isquémica)
+8. [Resumen: iCARDIO Alliance 2026](#8-resumen-icardio-alliance-2026)
+9. [Referencias](#9-referencias)
 
 ---
 
@@ -167,7 +168,7 @@ Las guías ESC 2023 usan umbrales de elevación del ST en V2–V3 específicos p
 
 ### 3.5 Sistemas de atención en México
 
-- **ICAT3:** protocolo mexicano para el tratamiento del IAMCEST (Programa Nacional IAM_MX / PREMIA). Se desarrolla en la [sección 5](#5-iam-con-elevación-del-st-iamcest-protocolo-icat3).
+- **ICAT3:** protocolo mexicano para el tratamiento del IAMCEST (Programa Nacional IAM_MX / PREMIA). Se desarrolla en la [sección 6](#6-iam-con-elevación-del-st-iamcest-protocolo-icat3).
 - **Código Infarto:** protocolo institucional del IMSS para la atención del IAMCEST.
 
 ---
@@ -201,13 +202,65 @@ Las guías ESC 2023 usan umbrales de elevación del ST en V2–V3 específicos p
 - **Inmediata (<2 h):** pacientes de muy alto riesgo (inestabilidad hemodinámica o choque cardiogénico, dolor recurrente o refractario, arritmias que ponen en riesgo la vida, complicaciones mecánicas, insuficiencia cardíaca aguda, cambios dinámicos recurrentes del ST).
 - **Temprana (<24 h):** pacientes de alto riesgo (diagnóstico confirmado de IMSEST, cambios dinámicos del ST/T, elevación transitoria del ST).
 
+| | | |
+|---|---|---|
+| ![SCA-SEST 1](SCASEST_1.png) | ![SCA-SEST 2](SCASEST_2.png) | ![SCA-SEST 3](SCASEST_3.png) |
+
 ---
 
-## 5. IAM con elevación del ST (IAMCEST): protocolo ICAT3
+## 5. SCA según la Guía ACC/AHA 2025
+
+> Esta sección se basa en la **Guía ACC/AHA/ACEP/NAEMSP/SCAI 2025** para el manejo de los síndromes coronarios agudos.
+
+### 5.1 Causa, espectro y patobiología
+
+- Los SCA son causados por la **disrupción (rotura o erosión) de una placa aterosclerótica inestable**, con trombosis parcial o completa y/o microembolias, que disminuye el flujo sanguíneo al miocardio y provoca isquemia.
+- Forman un **espectro de gravedad**:
+  - **Angina inestable:** isquemia transitoria sin necrosis significativa detectable por troponina.
+  - **IAMSEST:** arteria parcialmente ocluida, isquemia subendocárdica y elevación de biomarcadores de mionecrosis.
+  - **IAMCEST:** vaso totalmente ocluido, isquemia transmural e infarto.
+- El diagnóstico inicial y la clasificación se basan en la **historia clínica y los síntomas, el ECG y la troponina cardíaca**.
+- **Patobiología del IM tipo 1:** acumulación progresiva de lípidos e inflamación → placa inestable → rotura o erosión con exposición del contenido de la placa a la circulación → activación de la coagulación y trombosis → flujo comprometido → isquemia → mionecrosis.
+- **Fisiopatología dinámica:** el paciente puede pasar rápidamente de angina inestable a IAMSEST o IAMCEST durante la presentación, la evaluación y el tratamiento. Otras causas menos frecuentes de isquemia: espasmo, embolia y disección coronaria.
+
+| | |
+|---|---|
+| ![ACC/AHA 1](ACC_AHA_1.png) | ![ACC/AHA 2](ACC_AHA_2.png) |
+| ![ACC/AHA 3](ACC_AHA_3.png) | ![ACC/AHA 4](ACC_AHA_4.png) |
+
+### 5.2 Evaluación inicial del dolor torácico
+
+- El dolor torácico es el **segundo motivo de consulta** más frecuente en urgencias en Estados Unidos. La mayoría de los pacientes no tendrá un SCA, pero no detectarlo tiene consecuencias graves en morbilidad y mortalidad.
+- Ante signos o síntomas de SCA: **anamnesis, exploración física, ECG realizado e interpretado de forma oportuna y troponina cardíaca**.
+- En la sospecha de SCA, el **tratamiento médico inicial debe comenzar de inmediato**.
+- **Ecocardiografía urgente** (incluida la ecografía a pie de cama por clínicos capacitados) si hay choque cardiogénico, inestabilidad hemodinámica o sospecha de complicaciones mecánicas.
+- **IAMCEST:** la reperfusión rápida es lo más importante; no deben realizarse estudios que retrasen el cateterismo o la fibrinólisis, salvo que sus resultados cambien el manejo de inmediato.
+- La elección de estudios adicionales depende de los antecedentes clínicos, los hallazgos del ECG, los biomarcadores, las preferencias del paciente y su capacidad para hacer ejercicio.
+- Las **vías de decisión clínica** basadas en evidencia mejoran los resultados y reducen las pruebas innecesarias entre **21 % y 43 %**, manteniendo un alto **valor predictivo negativo** para eventos cardiovasculares adversos mayores (MACE).
+
+> [!CAUTION]
+> **Choque cardiogénico.** Está presente en el **7 % a 10 %** de los SCA y tiene alta mortalidad. Su reconocimiento temprano es clave para el triaje inicial y la estratificación del riesgo.
+
+### 5.3 Tratamiento médico inicial
+
+> [!NOTE]
+> **Oxígeno.** Iniciar oxígeno suplementario solo si la saturación es **menor de 90 %**.
+
+- **Ácido acetilsalicílico** en todos los pacientes, y **terapia antiplaquetaria dual** con un inhibidor del P2Y12 (clopidogrel).
+- **Anticoagulación parenteral** en todos los pacientes con SCA, independientemente de la estrategia inicial, para tratar la aterotrombosis coronaria y reducir los MACE recurrentes.
+- **Estatina de alta intensidad** de inmediato para reducir el riesgo de MACE.
+- **Analgesia:**
+  - Si los síntomas isquémicos persisten pese a nitratos, buscar una **revascularización rápida**; los opiáceos no deben usarse solo para enmascarar los síntomas.
+  - Los opiáceos pueden **retrasar la absorción de los inhibidores del P2Y12 orales** (clopidogrel) y sus efectos farmacodinámicos en pacientes llevados a intervención coronaria percutánea; la relevancia clínica de este hallazgo sigue en debate.
+  - **Evitar los AINE** en el dolor isquémico, incluso con sospecha sin confirmación: se asocian a mayor riesgo de MACE, con o sin enfermedad cardíaca previa, y no tienen beneficio documentado en el SCA.
+
+---
+
+## 6. IAM con elevación del ST (IAMCEST): protocolo ICAT3
 
 La **reperfusión temprana** del IAMCEST es una intervención que salva vidas y la medida más importante de su tratamiento: su objetivo es restaurar el flujo de la arteria responsable del infarto y garantizar la permeabilidad del vaso.
 
-### 5.1 ICAT3
+### 6.1 ICAT3
 
 | Letra | Paso |
 |---|---|
@@ -218,7 +271,7 @@ La **reperfusión temprana** del IAMCEST es una intervención que salva vidas y 
 | **T** | Traslado |
 | **T** | Retorno a su vida |
 
-### 5.2 Algoritmo
+### 6.2 Algoritmo
 
 ```
 DOLOR PRECORDIAL → CENTRO DE PRIMER CONTACTO → ECG <10 MIN
@@ -238,7 +291,7 @@ DOLOR PRECORDIAL → CENTRO DE PRIMER CONTACTO → ECG <10 MIN
                                                                   FARMACOINVASIVA
 ```
 
-### 5.3 El tiempo es músculo
+### 6.3 El tiempo es músculo
 
 | Tiempo desde el inicio de los síntomas | Conducta |
 |---|---|
@@ -250,13 +303,13 @@ DOLOR PRECORDIAL → CENTRO DE PRIMER CONTACTO → ECG <10 MIN
 
 Principales retrasos en México: tiempo al diagnóstico (primer contacto → ECG interpretado), tiempo de traslado y tiempos puerta-aguja y puerta-balón.
 
-### 5.4 Estrategias de reperfusión
+### 6.4 Estrategias de reperfusión
 
 - **Angioplastia primaria (ACTPp):** más efectiva (menos isquemia recurrente, reinfarto, necesidad de revascularización y sangrado cerebral; mejor flujo final). Traslado a hemodinámica en <60 min.
 - **Estrategia farmacoinvasiva:** fibrinólisis seguida de angioplastia de rutina en las 3 a 24 h siguientes. Tan eficaz como la ACTPp y ampliamente disponible; en México, por la logística de traslado y la escasez de salas de hemodinámica 24/7, es una estrategia atractiva, accesible y eficaz.
 - Si la ACTPp se retrasa >60 min respecto a la fibrinólisis, los resultados se equiparan. La fibrinólisis puede ser mejor si el paciente llega en <2 h y se administra en los primeros 30 min.
 
-### 5.5 Tratamiento adjunto (dosis de carga)
+### 6.5 Tratamiento adjunto (dosis de carga)
 
 | Fármaco | Dosis |
 |---|---|
@@ -269,7 +322,7 @@ Ajustes de enoxaparina según el manual: >75 años, 0.75 mg/kg SC cada 12 h (má
 
 **Acceso IV:** ¡cualquier acceso! Cefálica, basílica, media, dorsal: el que se obtenga más rápido.
 
-### 5.6 Fibrinolíticos: ¡el que esté disponible!
+### 6.6 Fibrinolíticos: ¡el que esté disponible!
 
 | Fármaco | Esquema |
 |---|---|
@@ -279,7 +332,7 @@ Ajustes de enoxaparina según el manual: >75 años, 0.75 mg/kg SC cada 12 h (má
 | Tenecteplasa (TNK) | Bolo en 5–10 s según peso: <60 kg 30 mg (6 ml) · 61–70 kg 35 mg (7 ml) · 71–80 kg 40 mg (8 ml) · 81–90 kg 45 mg (9 ml) · >91 kg 50 mg (10 ml) |
 | Reteplasa | Disponible como alternativa |
 
-### 5.7 Indicaciones de fibrinólisis
+### 6.7 Indicaciones de fibrinólisis
 
 Dolor torácico sugestivo de isquemia >20 min, asociado a:
 
@@ -289,7 +342,7 @@ Dolor torácico sugestivo de isquemia >20 min, asociado a:
 
 Hasta 12 h del inicio de los síntomas y sin contraindicación absoluta.
 
-### 5.8 Contraindicaciones de fibrinólisis
+### 6.8 Contraindicaciones de fibrinólisis
 
 | Absolutas: ¡no trombolizar! | Relativas: ¿pueden tratarse? |
 |---|---|
@@ -309,20 +362,21 @@ Hasta 12 h del inicio de los síntomas y sin contraindicación absoluta.
 
 ---
 
-## 6. Cardiopatía isquémica crónica y miocardiopatía isquémica
+## 7. Cardiopatía isquémica crónica y miocardiopatía isquémica
 
-### 6.1 Terminología y transición de la fase aguda a la crónica
+### 7.1 Terminología y transición de la fase aguda a la crónica (iCARDIO Alliance 2026)
 
 - **Cardiopatía isquémica crónica (CIC):** denominación tradicional de las manifestaciones estables de la aterosclerosis coronaria. La ESC introdujo en 2019 el término **síndromes coronarios crónicos**; ACC/AHA (2023) usan **enfermedad coronaria crónica**.
+- **¿Cuándo pasa la fase aguda a la crónica?** Cuando el proceso trombótico agudo se ha resuelto y el paciente entra en un periodo de relativa estabilidad fisiopatológica.
 - Por convención, la fase crónica inicia **12 meses después de un SCA**, cuando la tasa de eventos isquémicos recurrentes se estabiliza. Fase crónica **no** significa bajo riesgo: la aterosclerosis progresa y placas estables pueden volverse vulnerables.
 
-### 6.2 Miocardiopatía isquémica
+### 7.2 Miocardiopatía isquémica
 
 Disminución de la capacidad del corazón para bombear sangre por daño miocárdico causado por isquemia, casi siempre por enfermedad arterial coronaria. La isquemia breve produce pérdida **reversible** de contractilidad; la isquemia prolongada causa daño **irreversible**, fibrosis y remodelado, con disfunción ventricular, arritmias y alteraciones de la conducción. Suele cursar con **FEVI <40 %**.
 
 **Factores de riesgo.** Modificables: diabetes, hipertensión, tabaquismo, dislipidemia, obesidad, sedentarismo. No modificables: edad, sexo, antecedentes familiares.
 
-### 6.3 Presentación clínica
+### 7.3 Presentación clínica
 
 - Solo **10–25 %** de los pacientes estudiados presentan angina clásica (presión retroesternal con el esfuerzo o el estrés que mejora con reposo o nitroglicerina).
 - La mayoría tiene síntomas inespecíficos: molestia torácica, dolor de garganta, brazo o mandíbula, náusea, disnea de esfuerzo, diaforesis o fatiga.
@@ -330,7 +384,7 @@ Disminución de la capacidad del corazón para bombear sangre por daño miocárd
 - **Adultos mayores:** pueden presentar síncope, delirium o disnea.
 - Con insuficiencia cardíaca: disnea, ortopnea, intolerancia al ejercicio; estertores, galope S3, choque de punta desplazado, ingurgitación yugular, reflujo hepatoyugular y edema.
 
-### 6.4 Evaluación
+### 7.4 Evaluación
 
 | Estudio | Utilidad |
 |---|---|
@@ -349,7 +403,7 @@ Disminución de la capacidad del corazón para bombear sangre por daño miocárd
 | Resonancia magnética (realce tardío con gadolinio) | Distingue miocardiopatía isquémica de no isquémica; sin realce tardío = potencial de recuperación |
 | Medicina nuclear (sestamibi-99mTc) | Viabilidad: el miocardio hibernado mejora con revascularización |
 
-### 6.5 Tratamiento
+### 7.5 Tratamiento
 
 - **Estilo de vida:** dejar de fumar, ejercicio, dieta.
 - **Revascularización:** reperfundir miocardio viable isquémico; en miocardiopatía isquémica, la cirugía de revascularización redujo la mortalidad total 7 % (absoluto) a 10 años frente al tratamiento médico.
@@ -370,7 +424,7 @@ Disminución de la capacidad del corazón para bombear sangre por daño miocárd
 
 ---
 
-## 7. Resumen: iCARDIO Alliance 2026
+## 8. Resumen: iCARDIO Alliance 2026
 
 Guía global de implementación sobre cardiopatía isquémica:
 
@@ -383,7 +437,7 @@ Guía global de implementación sobre cardiopatía isquémica:
 
 ---
 
-## 8. Referencias
+## 9. Referencias
 
 1. Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas de Defunciones Registradas (EDR), enero a marzo de 2026 (preliminar). Comunicado 36/26; 18 de septiembre de 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OCDE. Health at a Glance 2025: nota de país, México. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf
@@ -395,3 +449,4 @@ Guía global de implementación sobre cardiopatía isquémica:
 8. Programa Nacional para la Reducción de la Mortalidad por Infarto Agudo al Miocardio IAM_MX (PREMIA). Infarto agudo al miocardio. Grupo de Reperfusión en el Infarto Agudo al Miocardio, A.C.; 2017. https://calidad.salud.gob.mx/site/iam/docs/iam_01.pdf
 9. Bhandari B, Quintanilla Rodriguez BS, Saad Eddin A, et al. Ischemic Cardiomyopathy. [Actualizado 31 jul 2023]. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. https://www.ncbi.nlm.nih.gov/books/NBK537301/
 10. Pinto FJ, Gulati M, Caldeira D, Chow CK, Wolff Gowdak LH, Itchhaporia D, et al. iCARDIO Alliance Global Implementation Guidelines on Ischemic Heart Disease 2026. Global Cardiology. 2026;4. https://doi.org/10.4081/cardio.2026.112
+11. Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2025;85(22):2135-2237. https://doi.org/10.1016/j.jacc.2024.11.009

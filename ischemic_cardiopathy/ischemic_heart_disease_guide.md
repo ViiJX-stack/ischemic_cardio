@@ -8,12 +8,13 @@
 2. [Myocardial infarction: Fifth Universal Definition (2026)](#2-myocardial-infarction-fifth-universal-definition-2026)
 3. [Acute coronary syndromes (ACS): 2023 ESC Guidelines](#3-acute-coronary-syndromes-acs-2023-esc-guidelines)
 4. [Non-ST-elevation ACS (NSTE-ACS / NSTEMI)](#4-non-st-elevation-acs-nste-acs--nstemi)
-5. [ST-elevation MI (STEMI): the ICAT3 protocol](#5-st-elevation-mi-stemi-the-icat3-protocol)
-6. [Chronic ischemic heart disease and ischemic cardiomyopathy](#6-chronic-ischemic-heart-disease-and-ischemic-cardiomyopathy)
-7. [Summary: iCARDIO Alliance 2026](#7-summary-icardio-alliance-2026)
-8. [References](#8-references)
+5. [ACS according to the 2025 ACC/AHA Guideline](#5-acs-according-to-the-2025-accaha-guideline)
+6. [ST-elevation MI (STEMI): the ICAT3 protocol](#6-st-elevation-mi-stemi-the-icat3-protocol)
+7. [Chronic ischemic heart disease and ischemic cardiomyopathy](#7-chronic-ischemic-heart-disease-and-ischemic-cardiomyopathy)
+8. [Summary: iCARDIO Alliance 2026](#8-summary-icardio-alliance-2026)
+9. [References](#9-references)
 
-The figures for sections 3 to 5 are the original Spanish-language teaching slides.
+The figures for sections 3 to 6 are the original Spanish-language teaching slides.
 
 ---
 
@@ -169,7 +170,7 @@ The 2023 ESC guidelines use sex- and age-specific ST-elevation thresholds in V2�
 
 ### 3.5 Systems of care in Mexico
 
-- **ICAT3:** the Mexican protocol for STEMI treatment (National Program IAM_MX / PREMIA). Developed in [section 5](#5-st-elevation-mi-stemi-the-icat3-protocol).
+- **ICAT3:** the Mexican protocol for STEMI treatment (National Program IAM_MX / PREMIA). Developed in [section 6](#6-st-elevation-mi-stemi-the-icat3-protocol).
 - **Código Infarto:** the Mexican Social Security Institute (IMSS) institutional protocol for STEMI care.
 
 ---
@@ -203,13 +204,65 @@ The 2023 ESC guidelines use sex- and age-specific ST-elevation thresholds in V2�
 - **Immediate (<2 h):** very-high-risk patients (hemodynamic instability or cardiogenic shock, recurrent or refractory pain, life-threatening arrhythmias, mechanical complications, acute heart failure, recurrent dynamic ST changes).
 - **Early (<24 h):** high-risk patients (confirmed NSTEMI, dynamic ST/T changes, transient ST elevation).
 
+| | | |
+|---|---|---|
+| ![SCA-SEST 1](SCASEST_1.png) | ![SCA-SEST 2](SCASEST_2.png) | ![SCA-SEST 3](SCASEST_3.png) |
+
 ---
 
-## 5. ST-elevation MI (STEMI): the ICAT3 protocol
+## 5. ACS according to the 2025 ACC/AHA Guideline
+
+> This section is based on the **2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline** for the management of acute coronary syndromes. The figures are the original Spanish-language teaching slides.
+
+### 5.1 Cause, spectrum and pathobiology
+
+- ACS is caused by **disruption (rupture or erosion) of an unstable atherosclerotic plaque**, with partial or complete thrombosis and/or microembolization, which reduces myocardial blood flow and causes ischemia.
+- It forms a **spectrum of severity**:
+  - **Unstable angina:** transient ischemia without significant necrosis detectable by troponin.
+  - **NSTEMI:** partially occluded artery, subendocardial ischemia and elevated biomarkers of myonecrosis.
+  - **STEMI:** totally occluded vessel, transmural ischemia and infarction.
+- Initial diagnosis and classification rely on **clinical history and symptoms, the ECG and cardiac troponin**.
+- **Pathobiology of type 1 MI:** progressive lipid accumulation and inflammation → unstable plaque → rupture or erosion exposing plaque contents to the circulation → coagulation activation and thrombosis → compromised flow → ischemia → myonecrosis.
+- **Dynamic pathophysiology:** patients may progress rapidly from unstable angina to NSTEMI or STEMI during presentation, evaluation and treatment. Less common causes of ischemia: coronary spasm, embolism and dissection.
+
+| | |
+|---|---|
+| ![ACC/AHA 1](ACC_AHA_1.png) | ![ACC/AHA 2](ACC_AHA_2.png) |
+| ![ACC/AHA 3](ACC_AHA_3.png) | ![ACC/AHA 4](ACC_AHA_4.png) |
+
+### 5.2 Initial evaluation of chest pain
+
+- Chest pain is the **second most common reason** for emergency department visits in the United States. Most patients will not have ACS, but missing it has serious consequences for morbidity and mortality.
+- With signs or symptoms of ACS: **history, physical examination, a timely ECG with interpretation, and cardiac troponin**.
+- When ACS is suspected, **initial medical therapy should start immediately**.
+- **Urgent echocardiography** (including point-of-care ultrasound by trained clinicians) for cardiogenic shock, hemodynamic instability or suspected mechanical complications.
+- **STEMI:** rapid reperfusion is paramount; tests that delay catheterization or fibrinolysis should not be performed unless their results would immediately change management.
+- The choice of additional testing depends on clinical history, ECG findings, biomarkers, patient preferences and ability to exercise.
+- Evidence-based **clinical decision pathways** improve outcomes and reduce unnecessary testing by **21 % to 43 %** while maintaining a high **negative predictive value** for major adverse cardiovascular events (MACE).
+
+> [!CAUTION]
+> **Cardiogenic shock.** Present in **7 % to 10 %** of ACS, with high mortality. Early recognition is key to initial triage and risk stratification.
+
+### 5.3 Initial medical therapy
+
+> [!NOTE]
+> **Oxygen.** Start supplemental oxygen only if saturation is **below 90 %**.
+
+- **Aspirin** for all patients, and **dual antiplatelet therapy** with a P2Y12 inhibitor (clopidogrel).
+- **Parenteral anticoagulation** for all patients with ACS, regardless of the initial strategy, to treat coronary atherothrombosis and reduce recurrent MACE.
+- **High-intensity statin** immediately to reduce MACE risk.
+- **Analgesia:**
+  - If ischemic symptoms persist despite nitrates, pursue **rapid revascularization**; opioids should not be used only to mask symptoms.
+  - Opioids may **delay absorption of oral P2Y12 inhibitors** (clopidogrel) and their pharmacodynamic effect in patients undergoing PCI; the clinical relevance of this finding is still debated.
+  - **Avoid NSAIDs** for ischemic pain, even when ACS is only suspected: they are associated with higher MACE risk, with or without prior heart disease, and have no documented benefit in ACS.
+
+---
+
+## 6. ST-elevation MI (STEMI): the ICAT3 protocol
 
 **Early reperfusion** in STEMI is a life-saving intervention and the single most important measure in its treatment: its goal is to restore flow in the infarct-related artery and ensure vessel patency.
 
-### 5.1 ICAT3
+### 6.1 ICAT3
 
 | Letter | Step (Spanish) | Meaning |
 |---|---|---|
@@ -220,7 +273,7 @@ The 2023 ESC guidelines use sex- and age-specific ST-elevation thresholds in V2�
 | **T** | Traslado | Transfer |
 | **T** | Retorno a su vida | Return to normal life |
 
-### 5.2 Algorithm
+### 6.2 Algorithm
 
 ```
 CHEST PAIN → FIRST-CONTACT CENTER → ECG <10 MIN
@@ -240,7 +293,7 @@ CHEST PAIN → FIRST-CONTACT CENTER → ECG <10 MIN
                                                             STRATEGY
 ```
 
-### 5.3 Time is muscle
+### 6.3 Time is muscle
 
 | Time from symptom onset | Action |
 |---|---|
@@ -252,13 +305,13 @@ CHEST PAIN → FIRST-CONTACT CENTER → ECG <10 MIN
 
 Main delays in Mexico: time to diagnosis (first contact → interpreted ECG), transfer time, and door-to-needle and door-to-balloon times.
 
-### 5.4 Reperfusion strategies
+### 6.4 Reperfusion strategies
 
 - **Primary angioplasty (pPCI):** more effective (less recurrent ischemia, reinfarction, repeat revascularization and intracranial bleeding; better final flow). Transfer to the cath lab within <60 min.
 - **Pharmacoinvasive strategy:** fibrinolysis followed by routine angioplasty within 3 to 24 h. As effective as pPCI and widely available; in Mexico, given transfer logistics and limited 24/7 cath labs, it is an attractive, accessible and effective strategy.
 - If pPCI is delayed >60 min relative to fibrinolysis, outcomes are equivalent. Fibrinolysis may be better if the patient presents within <2 h and it is given within the first 30 min.
 
-### 5.5 Adjunctive therapy (loading doses)
+### 6.5 Adjunctive therapy (loading doses)
 
 | Drug | Dose |
 |---|---|
@@ -271,7 +324,7 @@ Enoxaparin adjustments per the manual: >75 years, 0.75 mg/kg SC every 12 h (maxi
 
 **IV access:** any access! Cephalic, basilic, median, dorsal: whichever is fastest.
 
-### 5.6 Fibrinolytics: whichever is available!
+### 6.6 Fibrinolytics: whichever is available!
 
 | Drug | Regimen |
 |---|---|
@@ -281,7 +334,7 @@ Enoxaparin adjustments per the manual: >75 years, 0.75 mg/kg SC every 12 h (maxi
 | Tenecteplase (TNK) | Bolus over 5–10 s by weight: <60 kg 30 mg (6 ml) · 61–70 kg 35 mg (7 ml) · 71–80 kg 40 mg (8 ml) · 81–90 kg 45 mg (9 ml) · >91 kg 50 mg (10 ml) |
 | Reteplase | Available as an alternative |
 
-### 5.7 Indications for fibrinolysis
+### 6.7 Indications for fibrinolysis
 
 Chest pain suggestive of ischemia >20 min, associated with:
 
@@ -291,7 +344,7 @@ Chest pain suggestive of ischemia >20 min, associated with:
 
 Within 12 h of symptom onset and with no absolute contraindication.
 
-### 5.8 Contraindications to fibrinolysis
+### 6.8 Contraindications to fibrinolysis
 
 | Absolute: do not lyse! | Relative: can they be treated? |
 |---|---|
@@ -311,20 +364,21 @@ Within 12 h of symptom onset and with no absolute contraindication.
 
 ---
 
-## 6. Chronic ischemic heart disease and ischemic cardiomyopathy
+## 7. Chronic ischemic heart disease and ischemic cardiomyopathy
 
-### 6.1 Terminology and the acute-to-chronic transition
+### 7.1 Terminology and the acute-to-chronic transition (iCARDIO Alliance 2026)
 
 - **Chronic ischemic heart disease (CIHD):** the traditional term for stable manifestations of coronary atherosclerosis. The ESC introduced **chronic coronary syndromes** in 2019; ACC/AHA (2023) use **chronic coronary disease**.
+- **When does the acute phase become chronic?** When the acute thrombotic process has resolved and the patient enters a period of relative pathophysiological stability.
 - By convention, the chronic phase begins **12 months after an ACS**, when recurrent ischemic event rates plateau. Chronic does **not** mean low risk: atherosclerosis progresses and stable plaques may become vulnerable.
 
-### 6.2 Ischemic cardiomyopathy
+### 7.2 Ischemic cardiomyopathy
 
 Reduced ability of the heart to pump blood due to myocardial damage caused by ischemia, almost always from coronary artery disease. Brief ischemia causes **reversible** loss of contractility; prolonged ischemia causes **irreversible** damage, fibrosis and remodeling, with ventricular dysfunction, arrhythmias and conduction abnormalities. It usually presents with **LVEF <40 %**.
 
 **Risk factors.** Modifiable: diabetes, hypertension, smoking, dyslipidemia, obesity, sedentary lifestyle. Non-modifiable: age, sex, family history.
 
-### 6.3 Clinical presentation
+### 7.3 Clinical presentation
 
 - Only **10–25 %** of patients undergoing testing have classic angina (substernal pressure with exertion or stress, relieved by rest or nitroglycerin).
 - Most have nonspecific symptoms: chest discomfort, throat, arm or jaw discomfort, nausea, exertional dyspnea, diaphoresis or fatigue.
@@ -332,7 +386,7 @@ Reduced ability of the heart to pump blood due to myocardial damage caused by is
 - **Older adults:** may present with syncope, delirium or breathlessness.
 - With heart failure: dyspnea, orthopnea, exercise intolerance; crackles, S3 gallop, displaced apical impulse, jugular venous distension, hepatojugular reflux and edema.
 
-### 6.4 Evaluation
+### 7.4 Evaluation
 
 | Test | Use |
 |---|---|
@@ -351,7 +405,7 @@ Reduced ability of the heart to pump blood due to myocardial damage caused by is
 | Cardiac MRI (late gadolinium enhancement) | Distinguishes ischemic from non-ischemic cardiomyopathy; no LGE = potential for recovery |
 | Nuclear imaging (99mTc-sestamibi) | Viability: hibernating myocardium improves with revascularization |
 
-### 6.5 Treatment
+### 7.5 Treatment
 
 - **Lifestyle:** smoking cessation, exercise, diet.
 - **Revascularization:** reperfuse viable ischemic myocardium; in ischemic cardiomyopathy, CABG reduced all-cause mortality by 7 % (absolute) over 10 years versus medical therapy.
@@ -372,7 +426,7 @@ Reduced ability of the heart to pump blood due to myocardial damage caused by is
 
 ---
 
-## 7. Summary: iCARDIO Alliance 2026
+## 8. Summary: iCARDIO Alliance 2026
 
 Global implementation guideline on ischemic heart disease:
 
@@ -385,7 +439,7 @@ Global implementation guideline on ischemic heart disease:
 
 ---
 
-## 8. References
+## 9. References
 
 1. Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas de Defunciones Registradas (EDR), January–March 2026 (preliminary). Release 36/26; 18 September 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OECD. Health at a Glance 2025: country note, Mexico. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf
@@ -397,3 +451,4 @@ Global implementation guideline on ischemic heart disease:
 8. Programa Nacional para la Reducción de la Mortalidad por Infarto Agudo al Miocardio IAM_MX (PREMIA). Infarto agudo al miocardio. Grupo de Reperfusión en el Infarto Agudo al Miocardio, A.C.; 2017. https://calidad.salud.gob.mx/site/iam/docs/iam_01.pdf
 9. Bhandari B, Quintanilla Rodriguez BS, Saad Eddin A, et al. Ischemic Cardiomyopathy. [Updated 31 Jul 2023]. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. https://www.ncbi.nlm.nih.gov/books/NBK537301/
 10. Pinto FJ, Gulati M, Caldeira D, Chow CK, Wolff Gowdak LH, Itchhaporia D, et al. iCARDIO Alliance Global Implementation Guidelines on Ischemic Heart Disease 2026. Global Cardiology. 2026;4. https://doi.org/10.4081/cardio.2026.112
+11. Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2025;85(22):2135-2237. https://doi.org/10.1016/j.jacc.2024.11.009

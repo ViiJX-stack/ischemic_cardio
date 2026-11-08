@@ -2,9 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24028094.svg)](https://doi.org/10.5281/zenodo.24028094)
 
-Guía didáctica bilingüe para estudiantes de medicina y clínicos: epidemiología en México, Quinta Definición Universal del Infarto (2026), síndromes coronarios agudos (ESC 2023, RENASICA III), SCA sin elevación del ST, IAMCEST con el protocolo mexicano ICAT3 y cardiopatía isquémica crónica.
+Guía didáctica bilingüe para estudiantes de medicina y clínicos: epidemiología en México, Quinta Definición Universal del Infarto (2026), síndromes coronarios agudos (ESC 2023, ACC/AHA 2025, RENASICA III), SCA sin elevación del ST, IAMCEST con el protocolo mexicano ICAT3 y cardiopatía isquémica crónica.
 
-Bilingual teaching guide for medical students and clinicians: epidemiology in Mexico, the Fifth Universal Definition of MI (2026), acute coronary syndromes (ESC 2023, RENASICA III), NSTE-ACS, STEMI under the Mexican ICAT3 protocol, and chronic ischemic heart disease.
+Bilingual teaching guide for medical students and clinicians: epidemiology in Mexico, the Fifth Universal Definition of MI (2026), acute coronary syndromes (ESC 2023, ACC/AHA 2025, RENASICA III), NSTE-ACS, STEMI under the Mexican ICAT3 protocol, and chronic ischemic heart disease.
 
 | Idioma / Language | Guía / Guide |
 |---|---|
