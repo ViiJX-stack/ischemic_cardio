@@ -21,6 +21,8 @@ The figures for sections 3 to 9 are the original Spanish-language teaching slide
 
 ## 1. Epidemiology in Mexico
 
+<img src="banner_01.png" alt="" height="40">
+
 **INEGI.** Heart diseases are the **leading cause of death in Mexico in both men and women**. In the first quarter of 2026, 49,252 deaths from heart disease were registered out of 207,599 total deaths (22,848 women and 26,397 men), ahead of diabetes mellitus and malignant tumors.
 
 **OECD, *Health at a Glance 2025* (Mexico country note).**
@@ -47,6 +49,8 @@ Mexico ranks second in obesity and first in obesity and overweight combined.
 ---
 
 ## 2. Myocardial infarction: Fifth Universal Definition (2026)
+
+<img src="banner_02.png" alt="" height="40">
 
 The Fifth Universal Definition of Myocardial Infarction (ESC/ACC/AHA/WHF, 2026) updates the classification to align it with pathophysiology, clinical evaluation and objective diagnostic criteria, and for the first time aligns with ICD-11 coding.
 
@@ -111,6 +115,8 @@ The Fifth Universal Definition of Myocardial Infarction (ESC/ACC/AHA/WHF, 2026) 
 ---
 
 ## 3. Acute coronary syndromes (ACS): 2023 ESC Guidelines
+
+<img src="banner_03.png" alt="" height="40">
 
 **Acute coronary syndromes (ACS)** encompass a spectrum of conditions in patients with recent changes in clinical symptoms or signs, with or without changes on the 12-lead ECG, and with or without acute elevations in cardiac troponin (cTn). Patients with suspected ACS may eventually be diagnosed with **acute myocardial infarction (AMI)** or **unstable angina (UA)**.
 
@@ -178,6 +184,8 @@ The 2023 ESC guidelines use sex- and age-specific ST-elevation thresholds in V2‚
 
 ## 4. Non-ST-elevation ACS (NSTE-ACS / NSTEMI)
 
+<img src="banner_04.png" alt="" height="40">
+
 - **NSTEMI** is more frequent than STEMI in **older adults**, as a consequence of long-standing coronary disease with established collateral circulation.
 - **High-sensitivity troponin (hs-cTn)** assays have markedly reduced the proportion of patients ultimately classified as unstable angina rather than NSTEMI.
 
@@ -212,6 +220,8 @@ The 2023 ESC guidelines use sex- and age-specific ST-elevation thresholds in V2‚
 ---
 
 ## 5. ACS according to the 2025 ACC/AHA Guideline
+
+<img src="banner_05.png" alt="" height="40">
 
 > This section is based on the **2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline** for the management of acute coronary syndromes. The figures are the original Spanish-language teaching slides.
 
@@ -260,6 +270,8 @@ The 2023 ESC guidelines use sex- and age-specific ST-elevation thresholds in V2‚
 ---
 
 ## 6. ST-elevation MI (STEMI): the ICAT3 protocol
+
+<img src="banner_06.png" alt="" height="40">
 
 **Early reperfusion** in STEMI is a life-saving intervention and the single most important measure in its treatment: its goal is to restore flow in the infarct-related artery and ensure vessel patency.
 
@@ -367,6 +379,8 @@ Within 12 h of symptom onset and with no absolute contraindication.
 
 ## 7. Chronic ischemic heart disease and ischemic cardiomyopathy
 
+<img src="banner_07.png" alt="" height="40">
+
 ### 7.1 Terminology and the acute-to-chronic transition (iCARDIO Alliance 2026)
 
 - **Chronic ischemic heart disease (CIHD):** the traditional term for stable manifestations of coronary atherosclerosis. The ESC introduced **chronic coronary syndromes** in 2019; ACC/AHA (2023) use **chronic coronary disease**.
@@ -439,6 +453,8 @@ Reduced ability of the heart to pump blood due to myocardial damage caused by is
 
 ## 8. Summary: iCARDIO Alliance 2026
 
+<img src="banner_08.png" alt="" height="40">
+
 Global implementation guideline on ischemic heart disease:
 
 1. **From acute to chronic:** ACS is characterized by plaque rupture or erosion, thrombosis and dynamic obstruction requiring urgent reperfusion; the chronic phase begins by convention at 12 months. Atherosclerosis is a dynamic disease: chronic does not mean risk-free.
@@ -451,6 +467,8 @@ Global implementation guideline on ischemic heart disease:
 ---
 
 ## 9. Cardiogenic shock
+
+<img src="banner_09.png" alt="" height="40">
 
 > This section is based on Gopar-Nieto R, et al. Arch Cardiol Mex. 2026 (reference 12).
 
@@ -521,6 +539,8 @@ Act immediately in at-risk patients: recent MI with extensive electrical involve
 ---
 
 ## 10. References
+
+<img src="banner_10.png" alt="" height="40">
 
 1. Instituto Nacional de Estad√≠stica y Geograf√≠a (INEGI). Estad√≠sticas de Defunciones Registradas (EDR), January‚ÄìMarch 2026 (preliminary). Release 36/26; 18 September 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OECD. Health at a Glance 2025: country note, Mexico. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf

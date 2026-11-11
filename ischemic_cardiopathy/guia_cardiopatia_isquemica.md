@@ -19,6 +19,8 @@
 
 ## 1. Epidemiología en México
 
+<img src="banner_01.png" alt="" height="40">
+
 **INEGI.** Las enfermedades del corazón son la **principal causa de muerte en México, tanto en hombres como en mujeres**. En el primer trimestre de 2026 se registraron 49,252 defunciones por enfermedades del corazón de un total de 207,599 (22,848 en mujeres y 26,397 en hombres), por encima de la diabetes mellitus y los tumores malignos.
 
 **OCDE, *Health at a Glance 2025* (nota de país, México).**
@@ -45,6 +47,8 @@ México ocupa el segundo lugar en obesidad y el primero en obesidad y sobrepeso.
 ---
 
 ## 2. Infarto de miocardio: Quinta Definición Universal (2026)
+
+<img src="banner_02.png" alt="" height="40">
 
 La Quinta Definición Universal del Infarto de Miocardio (ESC/ACC/AHA/WHF, 2026) actualiza la clasificación para alinearla con la fisiopatología, la evaluación clínica y criterios diagnósticos objetivos, y por primera vez se alinea con la codificación CIE-11.
 
@@ -109,6 +113,8 @@ La Quinta Definición Universal del Infarto de Miocardio (ESC/ACC/AHA/WHF, 2026)
 ---
 
 ## 3. Síndromes coronarios agudos (SCA o SICA): Guías ESC 2023
+
+<img src="banner_03.png" alt="" height="40">
 
 Los **síndromes coronarios agudos (SCA)** abarcan un espectro de afecciones que incluyen a pacientes con cambios recientes en sus síntomas o signos clínicos, con o sin alteraciones en el ECG de 12 derivaciones, y con o sin elevaciones agudas de la troponina cardíaca (cTn). Los pacientes con sospecha de SCA pueden recibir, finalmente, un diagnóstico de **infarto agudo de miocardio (IAM)** o **angina inestable (AI)**.
 
@@ -176,6 +182,8 @@ Las guías ESC 2023 usan umbrales de elevación del ST en V2–V3 específicos p
 
 ## 4. SCA sin elevación del ST (SCA-SEST / IMSEST)
 
+<img src="banner_04.png" alt="" height="40">
+
 - El **IMSEST** es más frecuente que el IAMCEST en **adultos mayores**, consecuencia de enfermedad coronaria de larga evolución con circulación colateral ya desarrollada.
 - Las pruebas de **troponina de alta sensibilidad (hs-cTn)** han reducido notablemente el porcentaje de pacientes clasificados finalmente como angina inestable frente a IMSEST.
 
@@ -210,6 +218,8 @@ Las guías ESC 2023 usan umbrales de elevación del ST en V2–V3 específicos p
 ---
 
 ## 5. SCA según la Guía ACC/AHA 2025
+
+<img src="banner_05.png" alt="" height="40">
 
 > Esta sección se basa en la **Guía ACC/AHA/ACEP/NAEMSP/SCAI 2025** para el manejo de los síndromes coronarios agudos.
 
@@ -258,6 +268,8 @@ Las guías ESC 2023 usan umbrales de elevación del ST en V2–V3 específicos p
 ---
 
 ## 6. IAM con elevación del ST (IAMCEST): protocolo ICAT3
+
+<img src="banner_06.png" alt="" height="40">
 
 La **reperfusión temprana** del IAMCEST es una intervención que salva vidas y la medida más importante de su tratamiento: su objetivo es restaurar el flujo de la arteria responsable del infarto y garantizar la permeabilidad del vaso.
 
@@ -365,6 +377,8 @@ Hasta 12 h del inicio de los síntomas y sin contraindicación absoluta.
 
 ## 7. Cardiopatía isquémica crónica y miocardiopatía isquémica
 
+<img src="banner_07.png" alt="" height="40">
+
 ### 7.1 Terminología y transición de la fase aguda a la crónica (iCARDIO Alliance 2026)
 
 - **Cardiopatía isquémica crónica (CIC):** denominación tradicional de las manifestaciones estables de la aterosclerosis coronaria. La ESC introdujo en 2019 el término **síndromes coronarios crónicos**; ACC/AHA (2023) usan **enfermedad coronaria crónica**.
@@ -437,6 +451,8 @@ Disminución de la capacidad del corazón para bombear sangre por daño miocárd
 
 ## 8. Resumen: iCARDIO Alliance 2026
 
+<img src="banner_08.png" alt="" height="40">
+
 Guía global de implementación sobre cardiopatía isquémica:
 
 1. **Del agudo al crónico:** el SCA se caracteriza por rotura o erosión de placa, trombosis y obstrucción dinámica que exigen reperfusión urgente; la fase crónica comienza por convención a los 12 meses. La aterosclerosis es un padecimiento dinámico: crónico no significa sin riesgo.
@@ -449,6 +465,8 @@ Guía global de implementación sobre cardiopatía isquémica:
 ---
 
 ## 9. Choque cardiogénico
+
+<img src="banner_09.png" alt="" height="40">
 
 > Esta sección se basa en Gopar-Nieto R, et al. Arch Cardiol Mex. 2026 (referencia 12).
 
@@ -519,6 +537,8 @@ Actuar de inmediato en pacientes de riesgo: infarto reciente con amplia extensi�
 ---
 
 ## 10. Referencias
+
+<img src="banner_10.png" alt="" height="40">
 
 1. Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas de Defunciones Registradas (EDR), enero a marzo de 2026 (preliminar). Comunicado 36/26; 18 de septiembre de 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OCDE. Health at a Glance 2025: nota de país, México. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf
