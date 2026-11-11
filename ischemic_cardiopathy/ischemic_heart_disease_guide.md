@@ -12,9 +12,10 @@
 6. [ST-elevation MI (STEMI): the ICAT3 protocol](#6-st-elevation-mi-stemi-the-icat3-protocol)
 7. [Chronic ischemic heart disease and ischemic cardiomyopathy](#7-chronic-ischemic-heart-disease-and-ischemic-cardiomyopathy)
 8. [Summary: iCARDIO Alliance 2026](#8-summary-icardio-alliance-2026)
-9. [References](#9-references)
+9. [Cardiogenic shock](#9-cardiogenic-shock)
+10. [References](#10-references)
 
-The figures for sections 3 to 6 are the original Spanish-language teaching slides.
+The figures for sections 3 to 9 are the original Spanish-language teaching slides.
 
 ---
 
@@ -241,7 +242,7 @@ The 2023 ESC guidelines use sex- and age-specific ST-elevation thresholds in V2�
 - Evidence-based **clinical decision pathways** improve outcomes and reduce unnecessary testing by **21 % to 43 %** while maintaining a high **negative predictive value** for major adverse cardiovascular events (MACE).
 
 > [!CAUTION]
-> **Cardiogenic shock.** Present in **7 % to 10 %** of ACS, with high mortality. Early recognition is key to initial triage and risk stratification.
+> **Cardiogenic shock.** Present in **7 % to 10 %** of ACS, with high mortality. Early recognition is key to initial triage and risk stratification (see [section 9](#9-cardiogenic-shock)).
 
 ### 5.3 Initial medical therapy
 
@@ -372,6 +373,9 @@ Within 12 h of symptom onset and with no absolute contraindication.
 - **When does the acute phase become chronic?** When the acute thrombotic process has resolved and the patient enters a period of relative pathophysiological stability.
 - By convention, the chronic phase begins **12 months after an ACS**, when recurrent ischemic event rates plateau. Chronic does **not** mean low risk: atherosclerosis progresses and stable plaques may become vulnerable.
 
+> [!IMPORTANT]
+> **Atherosclerosis is a dynamic disease. Chronic does not mean risk-free.**
+
 ### 7.2 Ischemic cardiomyopathy
 
 Reduced ability of the heart to pump blood due to myocardial damage caused by ischemia, almost always from coronary artery disease. Brief ischemia causes **reversible** loss of contractility; prolonged ischemia causes **irreversible** damage, fibrosis and remodeling, with ventricular dysfunction, arrhythmias and conduction abnormalities. It usually presents with **LVEF <40 %**.
@@ -424,13 +428,20 @@ Reduced ability of the heart to pump blood due to myocardial damage caused by is
 
 **Prognosis:** depends on myocardial viability; greater viability is associated with better outcomes after revascularization.
 
+### 7.6 Figures (iCARDIO Alliance 2026)
+
+| | |
+|---|---|
+| ![Acute-to-chronic transition](CIC_1.png) | ![Clinical manifestations](CIC_2.png) |
+| ![Biomarkers](CIC_3.png) | ![Imaging studies](CIC_4.png) |
+
 ---
 
 ## 8. Summary: iCARDIO Alliance 2026
 
 Global implementation guideline on ischemic heart disease:
 
-1. **From acute to chronic:** ACS is characterized by plaque rupture or erosion, thrombosis and dynamic obstruction requiring urgent reperfusion; the chronic phase begins by convention at 12 months, but it does not mean low risk.
+1. **From acute to chronic:** ACS is characterized by plaque rupture or erosion, thrombosis and dynamic obstruction requiring urgent reperfusion; the chronic phase begins by convention at 12 months. Atherosclerosis is a dynamic disease: chronic does not mean risk-free.
 2. **Chronic-phase focus:** appropriate identification, risk stratification, long-term secondary prevention and revascularization when indicated.
 3. **Antithrombotic therapy:** a pillar of secondary prevention; its choice, intensity, duration and adaptation depend on the balance between ischemic and bleeding risk, comorbidities and time since the acute event.
 4. **Symptoms:** classic angina is the minority (10–25 %); watch for atypical presentations in women and older adults.
@@ -439,7 +450,77 @@ Global implementation guideline on ischemic heart disease:
 
 ---
 
-## 9. References
+## 9. Cardiogenic shock
+
+> This section is based on Gopar-Nieto R, et al. Arch Cardiol Mex. 2026 (reference 12).
+
+### 9.1 Definition
+
+Cardiogenic shock (CS) is the most severe form of hypoperfusion caused by cardiac dysfunction, with **reduced cardiac output** and **elevated intracardiac filling pressures**. It is defined as ineffective cardiac output due to cardiac dysfunction that produces clinical and biochemical manifestations of hypoperfusion.
+
+| Clinical | Biochemical |
+|---|---|
+| Diaphoresis, cold extremities, oliguria (<30 mL/h), dizziness, mental confusion, diminished distal pulses | Metabolic acidosis, ↑ creatinine, lactate >2.0 mmol/L |
+
+> [!CAUTION]
+> **SBP <90 mmHg for >30 min** or the need for vasoactive amines is also a criterion, but it may be absent in early stages of CS.
+
+### 9.2 Epidemiology
+
+- **80 %** is due to acute coronary syndromes and **20 %** to heart failure.
+- **4–12 %** of patients with ACS develop CS: 30–40 % is detected on admission and 60–70 % during hospitalization.
+- In Mexico, at a referral center, CS accounted for **3.7 %** of all admissions over 13 years.
+- In-hospital mortality: **~40 %** in developed countries and **up to 70 %** in developing countries.
+- Among survivors, first-year mortality reaches **50–60 %**; 70–80 % of it occurs in the first 30–60 days.
+- Data in Mexico are insufficient: better statistical registries and interdisciplinary shock teams in hospitals are needed.
+
+### 9.3 Pathophysiology
+
+Microvascular dysfunction and the systemic inflammatory response syndrome (SIRS) reduce cardiac output; hypoperfusion and volume overload feed back into inflammation and, if the cycle is not stopped, **multiorgan failure** follows.
+
+- **In ACS:** loss of myocardium → ↓ LV contractility → compensatory vasoconstriction → ↑ central venous pressure and veno-arterial uncoupling → congestion and inflammation that perpetuate the cycle.
+- **In HF:** repeated cycles of inflammation and volume mismatch → frequent decompensations → hypoperfusion and congestion.
+
+> [!IMPORTANT]
+> The microcirculation precedes and determines the macrocirculation: up to **45 %** of patients who die of CS have a cardiac index **≥2.2 L/min/m²**. Brain, kidney, liver, gastrointestinal and respiratory function are affected.
+
+### 9.4 Approach and risk stratification
+
+Act immediately in at-risk patients: recent MI with extensive electrical involvement or known heart failure.
+
+| Phase | Features |
+|---|---|
+| Pre-shock | Hypoperfusion (cold extremities, oliguria, ↑ lactate, acidosis) even with SBP >90 mmHg; compensatory ↑ peripheral vascular resistance and tachycardia |
+| Shock | Hypoperfusion + hypotension, ↑ filling pressures, systemic congestion |
+| Refractory shock | Hypoperfusion unresponsive to established strategies |
+
+**SCAI classification (2019):** A (*At risk*); B (*Beginning*) pre-shock; C (*Classic*) hypoperfusion + hypotension; D (*Deteriorating*) requires escalation of therapy; E (*Extremis*) circulatory collapse.
+
+**Triaxial assessment (ACC expert consensus):** 1) SCAI stage; 2) clinical phenotype (pure cardiogenic, mixed or distributive); 3) risk modifiers (age, comorbidity, elevated lactate, multiorgan dysfunction).
+
+### 9.5 Treatment
+
+- **Paradigm:** unload the LV and provide hemodynamic support. None of these therapies has been shown to reduce short-term mortality.
+- **CS due to ACS:** reperfusion of the infarct-related artery plus support to allow ventricular recovery.
+- **Three phases:** 1) **rescue**: maintain BP and stabilize; 2) **optimization**: adjust drugs according to tissue perfusion and consider ventricular assist devices and ventilation; 3) **weaning**: reduce drugs and support.
+- **Vasoactive drugs:** used in 90 % of patients; they maintain BP and inotropy but increase myocardial O₂ consumption and arrhythmia risk.
+
+| Scenario | Hypotension | Normotension |
+|---|---|---|
+| ACS | Norepinephrine | Dobutamine, milrinone or levosimendan |
+| Decompensated HF | Norepinephrine | Dobutamine, milrinone, levosimendan or epinephrine + nitroprusside |
+| RV failure | Norepinephrine | Milrinone or levosimendan |
+
+### 9.6 Figures
+
+| | |
+|---|---|
+| ![Definition](CC_1.png) | ![Epidemiology](CC_2.png) |
+| ![Pathophysiology](CC_3.png) | ![Treatment](CC_5.png) |
+
+---
+
+## 10. References
 
 1. Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas de Defunciones Registradas (EDR), January–March 2026 (preliminary). Release 36/26; 18 September 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OECD. Health at a Glance 2025: country note, Mexico. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf
@@ -452,3 +533,4 @@ Global implementation guideline on ischemic heart disease:
 9. Bhandari B, Quintanilla Rodriguez BS, Saad Eddin A, et al. Ischemic Cardiomyopathy. [Updated 31 Jul 2023]. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. https://www.ncbi.nlm.nih.gov/books/NBK537301/
 10. Pinto FJ, Gulati M, Caldeira D, Chow CK, Wolff Gowdak LH, Itchhaporia D, et al. iCARDIO Alliance Global Implementation Guidelines on Ischemic Heart Disease 2026. Global Cardiology. 2026;4. https://doi.org/10.4081/cardio.2026.112
 11. Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2025;85(22):2135-2237. https://doi.org/10.1016/j.jacc.2024.11.009
+12. Gopar-Nieto R, García-Villarejo M, Arias-Escarpulli R, et al. How to approach and treat cardiogenic shock? Update and perspectives on pharmacological and mechanical treatment. Arch Cardiol Mex. 2026. https://doi.org/10.24875/ACM.25000031

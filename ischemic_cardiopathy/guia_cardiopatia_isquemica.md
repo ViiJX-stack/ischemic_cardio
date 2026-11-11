@@ -12,7 +12,8 @@
 6. [IAM con elevación del ST (IAMCEST): protocolo ICAT3](#6-iam-con-elevación-del-st-iamcest-protocolo-icat3)
 7. [Cardiopatía isquémica crónica y miocardiopatía isquémica](#7-cardiopatía-isquémica-crónica-y-miocardiopatía-isquémica)
 8. [Resumen: iCARDIO Alliance 2026](#8-resumen-icardio-alliance-2026)
-9. [Referencias](#9-referencias)
+9. [Choque cardiogénico](#9-choque-cardiogénico)
+10. [Referencias](#10-referencias)
 
 ---
 
@@ -239,7 +240,7 @@ Las guías ESC 2023 usan umbrales de elevación del ST en V2–V3 específicos p
 - Las **vías de decisión clínica** basadas en evidencia mejoran los resultados y reducen las pruebas innecesarias entre **21 % y 43 %**, manteniendo un alto **valor predictivo negativo** para eventos cardiovasculares adversos mayores (MACE).
 
 > [!CAUTION]
-> **Choque cardiogénico.** Está presente en el **7 % a 10 %** de los SCA y tiene alta mortalidad. Su reconocimiento temprano es clave para el triaje inicial y la estratificación del riesgo.
+> **Choque cardiogénico.** Está presente en el **7 % a 10 %** de los SCA y tiene alta mortalidad. Su reconocimiento temprano es clave para el triaje inicial y la estratificación del riesgo (ver [sección 9](#9-choque-cardiogénico)).
 
 ### 5.3 Tratamiento médico inicial
 
@@ -370,6 +371,9 @@ Hasta 12 h del inicio de los síntomas y sin contraindicación absoluta.
 - **¿Cuándo pasa la fase aguda a la crónica?** Cuando el proceso trombótico agudo se ha resuelto y el paciente entra en un periodo de relativa estabilidad fisiopatológica.
 - Por convención, la fase crónica inicia **12 meses después de un SCA**, cuando la tasa de eventos isquémicos recurrentes se estabiliza. Fase crónica **no** significa bajo riesgo: la aterosclerosis progresa y placas estables pueden volverse vulnerables.
 
+> [!IMPORTANT]
+> **La aterosclerosis es un padecimiento dinámico. Crónico no significa sin riesgo.**
+
 ### 7.2 Miocardiopatía isquémica
 
 Disminución de la capacidad del corazón para bombear sangre por daño miocárdico causado por isquemia, casi siempre por enfermedad arterial coronaria. La isquemia breve produce pérdida **reversible** de contractilidad; la isquemia prolongada causa daño **irreversible**, fibrosis y remodelado, con disfunción ventricular, arritmias y alteraciones de la conducción. Suele cursar con **FEVI <40 %**.
@@ -422,13 +426,20 @@ Disminución de la capacidad del corazón para bombear sangre por daño miocárd
 
 **Pronóstico:** depende de la viabilidad miocárdica; mayor viabilidad se asocia a mejores resultados tras la revascularización.
 
+### 7.6 Figuras (iCARDIO Alliance 2026)
+
+| | |
+|---|---|
+| ![Transición de agudo a crónico](CIC_1.png) | ![Manifestaciones clínicas](CIC_2.png) |
+| ![Biomarcadores](CIC_3.png) | ![Estudios de imagen](CIC_4.png) |
+
 ---
 
 ## 8. Resumen: iCARDIO Alliance 2026
 
 Guía global de implementación sobre cardiopatía isquémica:
 
-1. **Del agudo al crónico:** el SCA se caracteriza por rotura o erosión de placa, trombosis y obstrucción dinámica que exigen reperfusión urgente; la fase crónica comienza por convención a los 12 meses, pero no equivale a bajo riesgo.
+1. **Del agudo al crónico:** el SCA se caracteriza por rotura o erosión de placa, trombosis y obstrucción dinámica que exigen reperfusión urgente; la fase crónica comienza por convención a los 12 meses. La aterosclerosis es un padecimiento dinámico: crónico no significa sin riesgo.
 2. **Enfoque crónico:** identificación adecuada, estratificación de riesgo, prevención secundaria a largo plazo y revascularización cuando está indicada.
 3. **Terapia antitrombótica:** pilar de la prevención secundaria; su elección, intensidad, duración y adaptación dependen del equilibrio entre riesgo isquémico y hemorrágico, comorbilidades y tiempo desde el evento agudo.
 4. **Síntomas:** la angina clásica es minoritaria (10–25 %); vigilar presentaciones atípicas en mujeres y adultos mayores.
@@ -437,7 +448,77 @@ Guía global de implementación sobre cardiopatía isquémica:
 
 ---
 
-## 9. Referencias
+## 9. Choque cardiogénico
+
+> Esta sección se basa en Gopar-Nieto R, et al. Arch Cardiol Mex. 2026 (referencia 12).
+
+### 9.1 Definición
+
+El choque cardiogénico (CC) es la forma más grave de hipoperfusión ocasionada por disfunción cardiaca, con **disminución del gasto cardiaco** y **elevación de las presiones de llenado intracavitarias**. Se define como un gasto cardiaco ineficaz por disfunción cardiaca que genera manifestaciones clínicas y bioquímicas de hipoperfusión.
+
+| Clínicas | Bioquímicas |
+|---|---|
+| Sudoración, extremidades frías, oliguria (<30 mL/h), mareo, confusión mental, pulsos distales disminuidos | Acidosis metabólica, ↑ creatinina, lactato >2.0 mmol/L |
+
+> [!CAUTION]
+> Una **PAS <90 mmHg por >30 min** o la necesidad de aminas vasoactivas también es criterio, pero puede no estar presente en etapas tempranas del CC.
+
+### 9.2 Epidemiología
+
+- **80 %** se debe a síndromes coronarios agudos y **20 %** a insuficiencia cardiaca.
+- **4–12 %** de los pacientes con SCA desarrolla CC: 30–40 % se detecta al ingreso y 60–70 % durante la hospitalización.
+- En México, en un centro de referencia, el CC constituyó el **3.7 %** de todos los ingresos durante 13 años.
+- Mortalidad intrahospitalaria: **~40 %** en países desarrollados y **hasta 70 %** en países en vías de desarrollo.
+- En sobrevivientes, la mortalidad al primer año llega a **50–60 %**; el 70–80 % ocurre en los primeros 30–60 días.
+- En México los datos son insuficientes: se requiere mejor registro estadístico y equipos de choque interdisciplinarios en los hospitales.
+
+### 9.3 Fisiopatología
+
+La disfunción de la microvasculatura y el síndrome de respuesta inflamatoria sistémica (SRIS) disminuyen el gasto cardiaco; la hipoperfusión y la sobrecarga de volumen retroalimentan la inflamación y, si el ciclo no se detiene, aparece **falla multiorgánica**.
+
+- **En SCA:** pérdida de miocardio → ↓ contractilidad del VI → vasoconstricción compensadora → ↑ presión venosa central y desacoplamiento veno-arterial → congestión e inflamación que perpetúan el ciclo.
+- **En IC:** ciclos repetidos de inflamación y mal acoplamiento de volumen → descompensaciones frecuentes → hipoperfusión y congestión.
+
+> [!IMPORTANT]
+> La microcirculación precede y determina a la macrocirculación: hasta el **45 %** de quienes mueren por CC tiene un índice cardiaco **≥2.2 L/min/m²**. Hay repercusión cerebral, renal, hepática, gastrointestinal y respiratoria.
+
+### 9.4 Abordaje y estratificación del riesgo
+
+Actuar de inmediato en pacientes de riesgo: infarto reciente con amplia extensión eléctrica o insuficiencia cardiaca conocida.
+
+| Fase | Características |
+|---|---|
+| Prechoque | Hipoperfusión (extremidades frías, oliguria, ↑ lactato, acidosis) aun con PAS >90 mmHg; ↑ resistencias vasculares periféricas y taquicardia compensadoras |
+| Choque | Hipoperfusión + hipotensión, ↑ presiones de llenado, congestión sistémica |
+| Choque refractario | Hipoperfusión que no responde a las estrategias establecidas |
+
+**Clasificación SCAI (2019):** A (*At risk*) en riesgo; B (*Beginning*) prechoque; C (*Classic*) hipoperfusión + hipotensión; D (*Deteriorating*) requiere escalar terapia; E (*Extremis*) colapso circulatorio.
+
+**Valoración triaxial (consenso de expertos del ACC):** 1) etapa SCAI; 2) fenotipo clínico (cardiogénico puro, mixto o distributivo); 3) modificadores de riesgo (edad, comorbilidad, lactato elevado, disfunción multiorgánica).
+
+### 9.5 Tratamiento
+
+- **Paradigma:** descargar el VI y dar soporte hemodinámico. Ninguna de estas terapias ha demostrado reducir la mortalidad a corto plazo.
+- **CC por SCA:** reperfusión de la arteria responsable del infarto y soporte para permitir la recuperación ventricular.
+- **Tres fases:** 1) **rescate**: mantener la PA y estabilizar; 2) **optimización**: ajustar fármacos según la perfusión tisular y considerar asistencia ventricular y ventilación; 3) **retiro**: reducir fármacos y asistencia.
+- **Vasoactivos:** se usan en el 90 % de los pacientes; mantienen la PA y el inotropismo, pero aumentan el consumo miocárdico de O₂ y el riesgo de arritmias.
+
+| Escenario | Hipotensión | Normotensión |
+|---|---|---|
+| SCA | Norepinefrina | Dobutamina, milrinona o levosimendán |
+| IC descompensada | Norepinefrina | Dobutamina, milrinona, levosimendán o epinefrina + nitroprusiato |
+| Falla del VD | Norepinefrina | Milrinona o levosimendán |
+
+### 9.6 Figuras
+
+| | |
+|---|---|
+| ![Definición](CC_1.png) | ![Epidemiología](CC_2.png) |
+| ![Fisiopatología](CC_3.png) | ![Tratamiento](CC_5.png) |
+
+---
+
+## 10. Referencias
 
 1. Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas de Defunciones Registradas (EDR), enero a marzo de 2026 (preliminar). Comunicado 36/26; 18 de septiembre de 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OCDE. Health at a Glance 2025: nota de país, México. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf
@@ -450,3 +531,4 @@ Guía global de implementación sobre cardiopatía isquémica:
 9. Bhandari B, Quintanilla Rodriguez BS, Saad Eddin A, et al. Ischemic Cardiomyopathy. [Actualizado 31 jul 2023]. En: StatPearls. Treasure Island (FL): StatPearls Publishing; 2023. https://www.ncbi.nlm.nih.gov/books/NBK537301/
 10. Pinto FJ, Gulati M, Caldeira D, Chow CK, Wolff Gowdak LH, Itchhaporia D, et al. iCARDIO Alliance Global Implementation Guidelines on Ischemic Heart Disease 2026. Global Cardiology. 2026;4. https://doi.org/10.4081/cardio.2026.112
 11. Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2025;85(22):2135-2237. https://doi.org/10.1016/j.jacc.2024.11.009
+12. Gopar-Nieto R, García-Villarejo M, Arias-Escarpulli R, et al. ¿Cómo abordar y tratar el choque cardiogénico? Actualización y perspectivas sobre el tratamiento farmacológico y mecánico. Arch Cardiol Mex. 2026. https://doi.org/10.24875/ACM.25000031
