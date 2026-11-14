@@ -13,7 +13,8 @@
 7. [Chronic ischemic heart disease and ischemic cardiomyopathy](#7-chronic-ischemic-heart-disease-and-ischemic-cardiomyopathy)
 8. [Summary: iCARDIO Alliance 2026](#8-summary-icardio-alliance-2026)
 9. [Cardiogenic shock](#9-cardiogenic-shock)
-10. [References](#10-references)
+10. [Clinical reasoning when ACS is suspected](#10-clinical-reasoning-when-acs-is-suspected)
+11. [References](#11-references)
 
 The figures for sections 3 to 9 are the original Spanish-language teaching slides.
 
@@ -178,7 +179,7 @@ The 2023 ESC guidelines use sex- and age-specific ST-elevation thresholds in V2�
 ### 3.5 Systems of care in Mexico
 
 - **ICAT3:** the Mexican protocol for STEMI treatment (National Program IAM_MX / PREMIA). Developed in [section 6](#6-st-elevation-mi-stemi-the-icat3-protocol).
-- **Código Infarto:** the Mexican Social Security Institute (IMSS) institutional protocol for STEMI care.
+- **Código Infarto:** the Mexican Social Security Institute (IMSS) institutional protocol for STEMI care (reference 16; see [section 10](#10-clinical-reasoning-when-acs-is-suspected)).
 
 ---
 
@@ -538,9 +539,40 @@ Act immediately in at-risk patients: recent MI with extensive electrical involve
 
 ---
 
-## 10. References
+## 10. Clinical reasoning when ACS is suspected
 
 <img src="banner_10.png" alt="" height="40">
+
+Two facts explain why clinical reasoning at first contact is a priority in Mexico:
+
+- **30-day mortality after AMI: 22.6 per 100 admissions**, versus an OECD average of 6.5 and 2.6 in Norway; the worst figure in the OECD. It is not a lifestyle indicator: it measures what happens from the moment the patient walks through the hospital door (references 2 and 13).
+- **Undiagnosed hypertension:** half of adults live with hypertension and, among them, **3 in 5 did not know it** (reference 13).
+
+Real patients do not arrive with a textbook presentation: they arrive with an incomplete history, atypical symptoms and relatives who offer their own explanation. Reasoning means gathering the information, questioning it and deciding in time.
+
+### 10.1 Clinical reasoning table
+
+| Moment | Reasoning | Action | Source |
+|---|---|---|---|
+| Suspicion | Classic angina is a minority (10–25 %); in diabetic patients, women and older adults ACS may present as epigastric pain, dyspnea or diaphoresis | Consider ACS in epigastric pain; do not close the diagnosis as "gastritis" | iCARDIO 2026; ESC 2023 |
+| First 10 minutes | ECG and troponin define the type of ACS under the Fifth Definition | 12-lead ECG within ≤10 min and troponin sampling; serial ECGs if the first is non-diagnostic | ESC 2023; Fifth Definition 2026 |
+| Empirical antiplatelet therapy | A single aspirin dose is low risk and benefits STEMI, NSTEMI and unstable angina; it reduced mortality independently of reperfusion | Aspirin 150–300 mg orally, chewed, non-enteric-coated, on clinical suspicion (ICAT3: 300 mg) | ESC 2023; ISIS-2; ICAT3 |
+| Reperfusion | In STEMI, time is myocardium | Código Infarto: door-to-needle ≤30 min, door-to-balloon ≤90 min, transfer ≤60 min | Código Infarto (IMSS); ICAT3 |
+| Hidden hypertension | "I am not hypertensive" does not rule out hypertension; cuffless measurement is not yet a standard | Measure BP with correct technique; target <130/80 mmHg; home self-measurement is the most useful follow-up tool | Narro 2026; GREHTA 2026 |
+| Type of infarction | Hypertension can cause supply–demand imbalance (type 2 MI) and is also a risk factor for atherothrombosis (type 1 MI) | Integrate the context; coronary angiography often defines the mechanism | Fifth Definition 2026 |
+| Drugs | An abrupt drop in BP can precipitate hypoperfusion; beta-blockers are contraindicated in acute HF, shock or advanced AV block | Avoid abrupt BP drops; do not start a beta-blocker in acute HF | Gopar-Nieto 2026; ESC 2023 |
+| Shock | Cardiogenic shock can begin with SBP >90 mmHg (pre-shock); in-hospital mortality 40–70 % | Recognize hypoperfusion early: altered consciousness, diaphoresis, cold extremities, oliguria, lactate | Gopar-Nieto 2026 |
+| Bleeding risk | Major bleeding is associated with higher mortality | Consider CRUSADE in patients undergoing coronary angiography | ESC 2023 (supplement) |
+| Cognitive biases | Anchoring, premature closure, diagnostic momentum and fatigue at shift handover; missed ACS is a frequent cause of litigation | Reassess when symptoms persist; do not inherit diagnostic labels without verifying them | Croskerry 2003; Goyal 2025 |
+
+> [!IMPORTANT]
+> When ACS is clinically suspected, the sequence ECG within ≤10 minutes, troponin and aspirin does not wait for diagnostic confirmation.
+
+---
+
+## 11. References
+
+<img src="banner_11.png" alt="" height="40">
 
 1. Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas de Defunciones Registradas (EDR), January–March 2026 (preliminary). Release 36/26; 18 September 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OECD. Health at a Glance 2025: country note, Mexico. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf
@@ -554,3 +586,9 @@ Act immediately in at-risk patients: recent MI with extensive electrical involve
 10. Pinto FJ, Gulati M, Caldeira D, Chow CK, Wolff Gowdak LH, Itchhaporia D, et al. iCARDIO Alliance Global Implementation Guidelines on Ischemic Heart Disease 2026. Global Cardiology. 2026;4. https://doi.org/10.4081/cardio.2026.112
 11. Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2025;85(22):2135-2237. https://doi.org/10.1016/j.jacc.2024.11.009
 12. Gopar-Nieto R, García-Villarejo M, Arias-Escarpulli R, et al. How to approach and treat cardiogenic shock? Update and perspectives on pharmacological and mechanical treatment. Arch Cardiol Mex. 2026. https://doi.org/10.24875/ACM.25000031
+13. Narro Robles J. La salud en México. Conferencia magistral, XLVIII Congreso Nacional de la Academia Nacional de Medicina de México. Ciudad de México; 18 de septiembre de 2026. https://anmm.org.mx/doc/26/CONGRESO%20LA%20SALUD%20EN%20M%C3%89XICO-DR%20JOS%C3%89%20NARRO.pdf
+14. Abdo-Francis M, Alcocer L, Alcocer-Chauvet A, Almeida-Gutiérrez E, Altamirano-Cardoso E, Álvarez-López H, et al. The 2026 Mexican Consensus on Arterial Hypertension: Expert Group on Arterial Hypertension (GREHTA). Cardiovasc Metab Sci. 2026;37(1):43-48. https://dx.doi.org/10.35366/122893
+15. ISIS-2 (Second International Study of Infarct Survival) Collaborative Group. Randomised trial of intravenous streptokinase, oral aspirin, both, or neither among 17,187 cases of suspected acute myocardial infarction: ISIS-2. Lancet. 1988;2(8607):349-60. https://pubmed.ncbi.nlm.nih.gov/2899772/
+16. Borrayo-Sánchez G, Pérez-Rodríguez G, Martínez-Montañez OG, Almeida-Gutiérrez E, Ramírez-Arias E, Estrada-Gallegos J, et al. Protocolo para atención de infarto agudo de miocardio en urgencias: Código infarto. Rev Med Inst Mex Seguro Soc. 2017;55(2):233-59. https://pubmed.ncbi.nlm.nih.gov/28296374/
+17. Goyal A, Singh B, Ahmed I, et al. Unstable Angina. [Updated 2025 Jun 22]. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025. https://www.ncbi.nlm.nih.gov/books/NBK442000/
+18. Croskerry P. The importance of cognitive errors in diagnosis and strategies to minimize them. Acad Med. 2003;78(8):775-80. https://pubmed.ncbi.nlm.nih.gov/12915363/

@@ -13,7 +13,8 @@
 7. [Cardiopatía isquémica crónica y miocardiopatía isquémica](#7-cardiopatía-isquémica-crónica-y-miocardiopatía-isquémica)
 8. [Resumen: iCARDIO Alliance 2026](#8-resumen-icardio-alliance-2026)
 9. [Choque cardiogénico](#9-choque-cardiogénico)
-10. [Referencias](#10-referencias)
+10. [Razonamiento clínico ante la sospecha de SCA](#10-razonamiento-clínico-ante-la-sospecha-de-sca)
+11. [Referencias](#11-referencias)
 
 ---
 
@@ -176,7 +177,7 @@ Las guías ESC 2023 usan umbrales de elevación del ST en V2–V3 específicos p
 ### 3.5 Sistemas de atención en México
 
 - **ICAT3:** protocolo mexicano para el tratamiento del IAMCEST (Programa Nacional IAM_MX / PREMIA). Se desarrolla en la [sección 6](#6-iam-con-elevación-del-st-iamcest-protocolo-icat3).
-- **Código Infarto:** protocolo institucional del IMSS para la atención del IAMCEST.
+- **Código Infarto:** protocolo institucional del IMSS para la atención del IAMCEST (referencia 16; ver [sección 10](#10-razonamiento-clínico-ante-la-sospecha-de-sca)).
 
 ---
 
@@ -536,9 +537,40 @@ Actuar de inmediato en pacientes de riesgo: infarto reciente con amplia extensi�
 
 ---
 
-## 10. Referencias
+## 10. Razonamiento clínico ante la sospecha de SCA
 
 <img src="banner_10.png" alt="" height="40">
+
+Dos datos explican por qué el razonamiento clínico en el primer contacto es una prioridad en México:
+
+- **Mortalidad a 30 días por IAM: 22.6 por cada 100 ingresos**, frente a 6.5 del promedio de la OCDE y 2.6 de Noruega; es la peor cifra de la Organización. No es un indicador de estilo de vida: mide lo que ocurre desde que el paciente cruza la puerta del hospital (referencias 2 y 13).
+- **Hipertensión no diagnosticada:** la mitad de los adultos vive con hipertensión arterial y, entre ellos, **3 de cada 5 no lo sabían** (referencia 13).
+
+El paciente real no llega con una presentación de libro: llega con una historia incompleta, síntomas atípicos y familiares que proponen su propia explicación. Razonar es reunir la información, dudar de ella y decidir a tiempo.
+
+### 10.1 Tabla de razonamiento clínico
+
+| Momento | Razonamiento | Acción | Fuente |
+|---|---|---|---|
+| Sospecha | La angina clásica es minoritaria (10–25 %); en diabéticos, mujeres y adultos mayores el SCA puede presentarse como epigastralgia, disnea o diaforesis | Pensar en SCA ante dolor epigástrico; no cerrar el diagnóstico como "gastritis" | iCARDIO 2026; ESC 2023 |
+| Primeros 10 minutos | El ECG y la troponina definen el tipo de SCA según la Quinta Definición | ECG de 12 derivaciones en ≤10 min y toma de troponina; ECG seriados si el inicial no es diagnóstico | ESC 2023; Quinta Definición 2026 |
+| Antiagregación empírica | Una dosis de AAS es de bajo riesgo y beneficia en IAMCEST, IAMSEST y angina inestable; redujo la mortalidad independientemente de la reperfusión | AAS 150–300 mg VO masticado, sin cubierta entérica, ante la sospecha clínica (ICAT3: 300 mg) | ESC 2023; ISIS-2; ICAT3 |
+| Reperfusión | En el IAMCEST el tiempo es miocardio | Código Infarto: puerta-aguja ≤30 min, puerta-balón ≤90 min, traslado ≤60 min | Código Infarto (IMSS); ICAT3 |
+| Hipertensión oculta | "No soy hipertenso" no descarta hipertensión; la medición sin manguito aún no es un estándar | Medir la PA con técnica correcta; meta <130/80 mmHg; la automedición en casa es el instrumento más útil para el seguimiento | Narro 2026; GREHTA 2026 |
+| Tipo de infarto | La hipertensión puede causar desequilibrio aporte–demanda (IM tipo 2) y también es factor de riesgo de aterotrombosis (IM tipo 1) | Integrar el contexto; la coronariografía suele definir el mecanismo | Quinta Definición 2026 |
+| Fármacos | Un descenso brusco de la PA puede precipitar hipoperfusión; el betabloqueador está contraindicado en IC aguda, choque o bloqueo AV avanzado | Evitar descensos bruscos de la PA; no iniciar betabloqueador con IC aguda | Gopar-Nieto 2026; ESC 2023 |
+| Choque | El choque cardiogénico puede iniciar con PAS >90 mmHg (prechoque); mortalidad hospitalaria del 40–70 % | Reconocer temprano la hipoperfusión: alteración de la conciencia, diaforesis, extremidades frías, oliguria, lactato | Gopar-Nieto 2026 |
+| Riesgo hemorrágico | La hemorragia mayor se asocia a mayor mortalidad | Considerar CRUSADE en pacientes a los que se realiza coronariografía | ESC 2023 (suplemento) |
+| Sesgos cognitivos | Anclaje, cierre prematuro, inercia diagnóstica y fatiga en el traspaso de turno; el SCA no diagnosticado es causa frecuente de demandas | Reevaluar ante síntomas que no ceden; no heredar etiquetas diagnósticas sin verificarlas | Croskerry 2003; Goyal 2025 |
+
+> [!IMPORTANT]
+> Ante la sospecha clínica de SCA, la secuencia ECG en ≤10 minutos, troponina y AAS no espera la confirmación diagnóstica.
+
+---
+
+## 11. Referencias
+
+<img src="banner_11.png" alt="" height="40">
 
 1. Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas de Defunciones Registradas (EDR), enero a marzo de 2026 (preliminar). Comunicado 36/26; 18 de septiembre de 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OCDE. Health at a Glance 2025: nota de país, México. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf
@@ -552,3 +584,9 @@ Actuar de inmediato en pacientes de riesgo: infarto reciente con amplia extensi�
 10. Pinto FJ, Gulati M, Caldeira D, Chow CK, Wolff Gowdak LH, Itchhaporia D, et al. iCARDIO Alliance Global Implementation Guidelines on Ischemic Heart Disease 2026. Global Cardiology. 2026;4. https://doi.org/10.4081/cardio.2026.112
 11. Rao SV, O'Donoghue ML, Ruel M, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2025;85(22):2135-2237. https://doi.org/10.1016/j.jacc.2024.11.009
 12. Gopar-Nieto R, García-Villarejo M, Arias-Escarpulli R, et al. ¿Cómo abordar y tratar el choque cardiogénico? Actualización y perspectivas sobre el tratamiento farmacológico y mecánico. Arch Cardiol Mex. 2026. https://doi.org/10.24875/ACM.25000031
+13. Narro Robles J. La salud en México. Conferencia magistral, XLVIII Congreso Nacional de la Academia Nacional de Medicina de México. Ciudad de México; 18 de septiembre de 2026. https://anmm.org.mx/doc/26/CONGRESO%20LA%20SALUD%20EN%20M%C3%89XICO-DR%20JOS%C3%89%20NARRO.pdf
+14. Abdo-Francis M, Alcocer L, Alcocer-Chauvet A, Almeida-Gutiérrez E, Altamirano-Cardoso E, Álvarez-López H, et al. The 2026 Mexican Consensus on Arterial Hypertension: Expert Group on Arterial Hypertension (GREHTA). Cardiovasc Metab Sci. 2026;37(1):43-48. https://dx.doi.org/10.35366/122893
+15. ISIS-2 (Second International Study of Infarct Survival) Collaborative Group. Randomised trial of intravenous streptokinase, oral aspirin, both, or neither among 17,187 cases of suspected acute myocardial infarction: ISIS-2. Lancet. 1988;2(8607):349-60. https://pubmed.ncbi.nlm.nih.gov/2899772/
+16. Borrayo-Sánchez G, Pérez-Rodríguez G, Martínez-Montañez OG, Almeida-Gutiérrez E, Ramírez-Arias E, Estrada-Gallegos J, et al. Protocolo para atención de infarto agudo de miocardio en urgencias: Código infarto. Rev Med Inst Mex Seguro Soc. 2017;55(2):233-59. https://pubmed.ncbi.nlm.nih.gov/28296374/
+17. Goyal A, Singh B, Ahmed I, et al. Unstable Angina. [Updated 2025 Jun 22]. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025. https://www.ncbi.nlm.nih.gov/books/NBK442000/
+18. Croskerry P. The importance of cognitive errors in diagnosis and strategies to minimize them. Acad Med. 2003;78(8):775-80. https://pubmed.ncbi.nlm.nih.gov/12915363/
