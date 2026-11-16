@@ -566,6 +566,8 @@ El paciente real no llega con una presentación de libro: llega con una historia
 > [!IMPORTANT]
 > Ante la sospecha clínica de SCA, la secuencia ECG en ≤10 minutos, troponina y AAS no espera la confirmación diagnóstica.
 
+**Intervención educativa audiovisual:** los videos de esta sección (versión completa y versión corta para redes sociales) están registrados en Zenodo: [doi:10.5281/zenodo.24280175](https://doi.org/10.5281/zenodo.24280175).
+
 ---
 
 ## 11. Referencias

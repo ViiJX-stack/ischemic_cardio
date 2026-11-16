@@ -568,6 +568,8 @@ Real patients do not arrive with a textbook presentation: they arrive with an in
 > [!IMPORTANT]
 > When ACS is clinically suspected, the sequence ECG within ≤10 minutes, troponin and aspirin does not wait for diagnostic confirmation.
 
+**Audiovisual educational intervention:** the videos for this section (full version and short version for social media) are registered on Zenodo: [doi:10.5281/zenodo.24280175](https://doi.org/10.5281/zenodo.24280175).
+
 ---
 
 ## 11. References

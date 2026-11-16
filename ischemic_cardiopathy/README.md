@@ -15,6 +15,8 @@ Bilingual teaching guide for medical students and clinicians: epidemiology in Me
 
 Godínez-Vázquez VJ. Cardiopatía isquémica: guía para estudiantes de medicina y clínicos / Ischemic heart disease: a guide for medical students and clinicians. Zenodo; 2026. https://doi.org/10.5281/zenodo.24028094
 
+**Intervención educativa audiovisual / Audiovisual educational intervention:** Godínez-Vázquez VJ. Razonamiento clínico ante la sospecha de SCA / Clinical reasoning in suspected ACS. Zenodo; 2026. https://doi.org/10.5281/zenodo.24280175
+
 ## Aviso · Disclaimer
 
 Material educativo. No sustituye el juicio clínico ni las guías institucionales vigentes.
