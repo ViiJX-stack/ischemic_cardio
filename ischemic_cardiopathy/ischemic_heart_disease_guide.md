@@ -600,6 +600,14 @@ Real patients do not arrive with a textbook presentation: they arrive with an in
 > [!IMPORTANT]
 > At first medical contact, rapidly identify patients with haemodynamic or ventilatory instability, cardiogenic shock, respiratory failure, acute pulmonary oedema, or acute myocardial infarction requiring urgent coronary angiography. Recognize early signs of congestion, hypoperfusion or both.
 
+**Figures (Miró et al., 2025; Spanish-language slides):**
+
+| | |
+|---|---|
+| ![Epidemiology](ICA_1.png) | ![Diagnostic errors](ICA_2.png) |
+| ![Phenotypes](ICA_3.png) | ![Biomarkers](ICA_4.png) |
+| ![Imaging](ICA_5.png) | ![Rapid identification and management](ICA_6.png) |
+
 ### 11.2 Decompensated heart failure (2026 ESC Guidelines)
 
 **Definition:** acute or gradual onset of HF symptoms and/or signs severe enough to require urgent medical attention and initiation or intensification of treatment. It may be a worsening of pre-existing HF or its first manifestation (*de novo* HF). *De novo* HF is associated with higher in-hospital mortality but lower post-discharge mortality and fewer readmissions.

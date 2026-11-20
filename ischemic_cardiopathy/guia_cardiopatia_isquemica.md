@@ -598,6 +598,14 @@ El paciente real no llega con una presentación de libro: llega con una historia
 > [!IMPORTANT]
 > En el primer contacto, identificar con rapidez a los pacientes con inestabilidad hemodinámica o ventilatoria, choque cardiogénico, insuficiencia respiratoria, edema agudo de pulmón o infarto agudo de miocardio que requiera cateterismo urgente. Reconocer datos tempranos de congestión, hipoperfusión o ambos.
 
+**Figuras (Miró et al., 2025):**
+
+| | |
+|---|---|
+| ![Epidemiología](ICA_1.png) | ![Errores diagnósticos](ICA_2.png) |
+| ![Fenotipos](ICA_3.png) | ![Biomarcadores](ICA_4.png) |
+| ![Diagnóstico por imagen](ICA_5.png) | ![Identificación y manejo rápido](ICA_6.png) |
+
 ### 11.2 Insuficiencia cardiaca descompensada (Guías ESC 2026)
 
 **Definición:** aparición, aguda o gradual, de síntomas y/o signos de IC lo suficientemente graves como para requerir atención médica urgente y el inicio o la intensificación del tratamiento. Puede ser un empeoramiento de una IC preexistente o la primera manifestación (IC *de novo*). La IC *de novo* se asocia con mayor mortalidad intrahospitalaria, pero menor mortalidad tras el alta y menos reingresos.
