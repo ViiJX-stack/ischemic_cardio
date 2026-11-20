@@ -14,7 +14,8 @@
 8. [Resumen: iCARDIO Alliance 2026](#8-resumen-icardio-alliance-2026)
 9. [Choque cardiogénico](#9-choque-cardiogénico)
 10. [Razonamiento clínico ante la sospecha de SCA](#10-razonamiento-clínico-ante-la-sospecha-de-sca)
-11. [Referencias](#11-referencias)
+11. [Insuficiencia cardiaca aguda y descompensada](#11-insuficiencia-cardiaca-aguda-y-descompensada)
+12. [Referencias](#12-referencias)
 
 ---
 
@@ -570,9 +571,68 @@ El paciente real no llega con una presentación de libro: llega con una historia
 
 ---
 
-## 11. Referencias
+## 11. Insuficiencia cardiaca aguda y descompensada
 
 <img src="banner_11.png" alt="" height="40">
+
+> Esta sección se basa en las Guías ESC 2026 de insuficiencia cardiaca (referencia 19) y en la opinión internacional de expertos de Miró et al., 2025 (referencia 20).
+
+### 11.1 Insuficiencia cardiaca aguda en urgencias
+
+- Se diagnostica en el **0.5 %** de los pacientes atendidos por los servicios de emergencias médicas y en el **1 %** de los atendidos en urgencias hospitalarias; hasta **5 veces más** en mayores de 85 años.
+- Motivos de consulta: **disnea de esfuerzo** (~90 %) y **edema periférico** (más de dos tercios).
+
+> [!WARNING]
+> El diagnóstico de ICA en urgencias coincide con el diagnóstico al alta solo en el **54–88 %** de los casos, y los errores diagnósticos se asocian con mayor mortalidad. Médicos y coordinadores de emergencias consideran más difícil diagnosticar ICA que IAMCEST, asma o ACV. Los signos y síntomas son fáciles de identificar, pero no tienen alta sensibilidad ni especificidad.
+
+| Fenotipo en urgencias | Frecuencia | Características |
+|---|---|---|
+| IC aguda descompensada | hasta 82 % | La más frecuente; inicio gradual. Congestión: disnea, ortopnea, fatiga, ↓ diuresis, edema periférico. *De novo* o descompensación de una IC preexistente |
+| Edema pulmonar cardiogénico agudo | hasta 12 % | Desarrollo rápido por redistribución vascular. Crepitantes, disnea grave, dificultad respiratoria. Gasto cardiaco suele estar preservado; puede haber hipoperfusión por vasoconstricción intensa |
+| Choque cardiogénico | ~2 % | Disfunción miocárdica grave. Congestión + hipoperfusión (hipotensión, extremidades frías). ~1/4 ocurre durante un IAMCEST (ver [sección 9](#9-choque-cardiogénico)) |
+
+**Biomarcadores:** BNP y NT-proBNP son el biomarcador fundamental, con excelente rendimiento diagnóstico y alto valor predictivo negativo (útiles para descartar IC). Especialmente útiles en la "zona gris". Sus niveles se modifican por sexo, edad (solo NT-proBNP), obesidad e insuficiencia renal.
+
+**Imagen:** la radiografía de tórax tiene especificidad muy elevada si hay congestión, pero baja sensibilidad (adultos mayores, neumonía, EPOC). La ecografía a pie de cama aporta información rápida y en tiempo real; la tomografía está en estudio.
+
+> [!IMPORTANT]
+> En el primer contacto, identificar con rapidez a los pacientes con inestabilidad hemodinámica o ventilatoria, choque cardiogénico, insuficiencia respiratoria, edema agudo de pulmón o infarto agudo de miocardio que requiera cateterismo urgente. Reconocer datos tempranos de congestión, hipoperfusión o ambos.
+
+### 11.2 Insuficiencia cardiaca descompensada (Guías ESC 2026)
+
+**Definición:** aparición, aguda o gradual, de síntomas y/o signos de IC lo suficientemente graves como para requerir atención médica urgente y el inicio o la intensificación del tratamiento. Puede ser un empeoramiento de una IC preexistente o la primera manifestación (IC *de novo*). La IC *de novo* se asocia con mayor mortalidad intrahospitalaria, pero menor mortalidad tras el alta y menos reingresos.
+
+**Pronóstico:** mortalidad de **3–10 %** durante el ingreso, **20–30 %** al año y **>50 %** a los 5 años. Reingreso al año: **35–44 %**. Hasta el 50 % requiere intensificar el tratamiento en urgencias o de forma ambulatoria.
+
+**Evaluación inicial:** ante la sospecha, evaluar congestión e hipoperfusión en el primer contacto; medir pronto presión arterial, frecuencia respiratoria, oximetría, temperatura y ECG.
+
+**Presentación clínica:** la congestión deriva de sobrecarga o redistribución de líquidos, aumento de la permeabilidad vascular y elevación de las presiones intracardiacas. La hipoperfusión **no** es sinónimo de hipotensión; el **lactato sérico** ayuda a identificarla y a dar seguimiento al tratamiento.
+
+| Congestión izquierda | Congestión derecha | Hipoperfusión |
+|---|---|---|
+| Disnea, ortopnea, tos, taquipnea, estertores, S3, derrame pleural, péptidos natriuréticos elevados | Edema periférico, distensión abdominal, hepatomegalia, ingurgitación yugular, reflujo hepatoyugular, derrame pleural, creatinina elevada, bilirrubina/FA/GGT elevadas, péptidos natriuréticos ligeramente elevados | Extremidades frías y sudorosas, palidez, mareo, confusión, oliguria, presión de pulso estrecha, lactato elevado, creatinina elevada, aminotransferasas elevadas |
+
+**Categorías clínicas:**
+1. **IC izquierda descompensada:** inicio gradual, congestión progresiva, cualquier FEVI; descongestión con diuréticos.
+2. **IC derecha descompensada:** ↑ presiones en VD y AD, congestión sistémica, a menudo con insuficiencia tricuspídea; descartar embolia pulmonar e infarto del VD; vigilar función renal y hepática.
+3. **Edema agudo de pulmón:** disnea con ortopnea, hipoxemia, FR >25/min; redistribución de líquidos sin sobrecarga total de volumen; vasodilatadores más que dosis altas de diurético.
+4. **Choque cardiogénico:** hipoperfusión crítica de órganos por disfunción cardiaca primaria (consenso SHARC).
+
+En todos los casos: investigar y tratar la causa de la descompensación.
+
+### 11.3 Figuras
+
+| | |
+|---|---|
+| ![Definición y pronóstico](ICD_1.png) | ![Evaluación inicial](ICD_2.png) |
+| ![Presentación clínica](ICD_3.png) | ![Signos, síntomas y laboratorio](ICD_4.png) |
+| ![Categorías](ICD_5.png) | |
+
+---
+
+## 12. Referencias
+
+<img src="banner_12.png" alt="" height="40">
 
 1. Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas de Defunciones Registradas (EDR), enero a marzo de 2026 (preliminar). Comunicado 36/26; 18 de septiembre de 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OCDE. Health at a Glance 2025: nota de país, México. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf
@@ -592,3 +652,5 @@ El paciente real no llega con una presentación de libro: llega con una historia
 16. Borrayo-Sánchez G, Pérez-Rodríguez G, Martínez-Montañez OG, Almeida-Gutiérrez E, Ramírez-Arias E, Estrada-Gallegos J, et al. Protocolo para atención de infarto agudo de miocardio en urgencias: Código infarto. Rev Med Inst Mex Seguro Soc. 2017;55(2):233-59. https://pubmed.ncbi.nlm.nih.gov/28296374/
 17. Goyal A, Singh B, Ahmed I, et al. Unstable Angina. [Updated 2025 Jun 22]. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025. https://www.ncbi.nlm.nih.gov/books/NBK442000/
 18. Croskerry P. The importance of cognitive errors in diagnosis and strategies to minimize them. Acad Med. 2003;78(8):775-80. https://pubmed.ncbi.nlm.nih.gov/12915363/
+19. Køber L, Adamo M, Ruwald AC, Tomasoni D, Anderson LJ, Andersson C, et al. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026;47(38):5346-5457. https://doi.org/10.1093/eurheartj/ehag100
+20. Miró Ò, Chioncel O, Mebazaa A, Sato N, Butler J, Davison B, et al. Early diagnosis and treatment of acute heart failure in prehospital and emergency settings. Part 1 of the International Expert Opinion Series on acute heart failure management. Eur J Emerg Med. 2025;32(6):392-404. https://doi.org/10.1097/MEJ.0000000000001270

@@ -14,7 +14,8 @@
 8. [Summary: iCARDIO Alliance 2026](#8-summary-icardio-alliance-2026)
 9. [Cardiogenic shock](#9-cardiogenic-shock)
 10. [Clinical reasoning when ACS is suspected](#10-clinical-reasoning-when-acs-is-suspected)
-11. [References](#11-references)
+11. [Acute and decompensated heart failure](#11-acute-and-decompensated-heart-failure)
+12. [References](#12-references)
 
 The figures for sections 3 to 9 are the original Spanish-language teaching slides.
 
@@ -572,9 +573,70 @@ Real patients do not arrive with a textbook presentation: they arrive with an in
 
 ---
 
-## 11. References
+## 11. Acute and decompensated heart failure
 
 <img src="banner_11.png" alt="" height="40">
+
+> This section is based on the 2026 ESC heart failure guidelines (reference 19) and the international expert opinion by Miró et al., 2025 (reference 20).
+
+### 11.1 Acute heart failure in the emergency setting
+
+- Diagnosed in **0.5 %** of patients seen by emergency medical services and **1 %** of those seen in hospital emergency departments; up to **5 times more** in patients over 85.
+- Reasons for consultation: **exertional dyspnoea** (~90 %) and **peripheral oedema** (more than two thirds).
+
+> [!WARNING]
+> The emergency department diagnosis of AHF matches the discharge diagnosis in only **54–88 %** of cases, and diagnostic errors are associated with higher mortality. Physicians and emergency coordinators consider AHF harder to diagnose than STEMI, asthma or stroke. Signs and symptoms are easy to identify but lack high sensitivity and specificity.
+
+| Phenotype in the ED | Frequency | Features |
+|---|---|---|
+| Acute decompensated HF | up to 82 % | Most frequent; gradual onset. Congestion: dyspnoea, orthopnoea, fatigue, ↓ urine output, peripheral oedema. *De novo* or decompensation of pre-existing HF |
+| Acute cardiogenic pulmonary oedema | up to 12 % | Rapid onset from vascular redistribution. Crackles, severe dyspnoea, respiratory distress. Cardiac output usually preserved; hypoperfusion may occur from intense vasoconstriction |
+| Cardiogenic shock | ~2 % | Severe myocardial dysfunction. Congestion + hypoperfusion (hypotension, cold extremities). ~1/4 occurs during STEMI (see [section 9](#9-cardiogenic-shock)) |
+
+**Biomarkers:** BNP and NT-proBNP are the key biomarkers, with excellent diagnostic performance and high negative predictive value (useful to rule out HF). Especially useful in the "grey zone". Levels are affected by sex, age (NT-proBNP only), obesity and renal failure.
+
+**Imaging:** chest X-ray has very high specificity when congestion is present but low sensitivity (older adults, pneumonia, COPD). Point-of-care ultrasound provides rapid, real-time information; CT is under study.
+
+> [!IMPORTANT]
+> At first medical contact, rapidly identify patients with haemodynamic or ventilatory instability, cardiogenic shock, respiratory failure, acute pulmonary oedema, or acute myocardial infarction requiring urgent coronary angiography. Recognize early signs of congestion, hypoperfusion or both.
+
+### 11.2 Decompensated heart failure (2026 ESC Guidelines)
+
+**Definition:** acute or gradual onset of HF symptoms and/or signs severe enough to require urgent medical attention and initiation or intensification of treatment. It may be a worsening of pre-existing HF or its first manifestation (*de novo* HF). *De novo* HF is associated with higher in-hospital mortality but lower post-discharge mortality and fewer readmissions.
+
+**Prognosis:** mortality of **3–10 %** during admission, **20–30 %** at 1 year and **>50 %** at 5 years. One-year readmission: **35–44 %**. Up to 50 % need treatment intensification in the ED or outpatient setting.
+
+**Initial assessment:** when suspected, assess congestion and hypoperfusion at first contact; measure blood pressure, respiratory rate, pulse oximetry, temperature and ECG early.
+
+**Clinical presentation:** congestion results from fluid overload or redistribution, increased vascular permeability and elevated intracardiac pressures. Hypoperfusion is **not** synonymous with hypotension; **serum lactate** helps identify it and monitor treatment.
+
+| Left-sided congestion | Right-sided congestion | Hypoperfusion |
+|---|---|---|
+| Dyspnoea, orthopnoea, cough, tachypnoea, rales, S3, pleural effusion, elevated natriuretic peptides | Peripheral oedema, abdominal distension, hepatomegaly, jugular vein distension, hepatojugular reflux, pleural effusion, elevated creatinine, elevated bilirubin/ALP/GGT, slightly elevated natriuretic peptides | Cold, sweaty extremities, pale skin, dizziness, confusion, oliguria, narrow pulse pressure, elevated lactate, elevated creatinine, elevated aminotransferases |
+
+**Clinical categories:**
+1. **Decompensated left HF:** gradual onset, progressive congestion, any LVEF; decongestion with diuretics.
+2. **Decompensated right HF:** ↑ RV and RA pressures, systemic congestion, often with tricuspid regurgitation; rule out pulmonary embolism and RV infarction; monitor renal and hepatic function.
+3. **Acute pulmonary oedema:** dyspnoea with orthopnoea, hypoxaemia, RR >25/min; fluid redistribution without total volume overload; vasodilators rather than high-dose diuretics.
+4. **Cardiogenic shock:** critical end-organ hypoperfusion from primary cardiac dysfunction (SHARC consensus).
+
+In all cases: investigate and treat the cause of decompensation.
+
+### 11.3 Figures
+
+The figures are the original Spanish-language teaching slides.
+
+| | |
+|---|---|
+| ![Definition and prognosis](ICD_1.png) | ![Initial assessment](ICD_2.png) |
+| ![Clinical presentation](ICD_3.png) | ![Signs, symptoms and laboratory](ICD_4.png) |
+| ![Categories](ICD_5.png) | |
+
+---
+
+## 12. References
+
+<img src="banner_12.png" alt="" height="40">
 
 1. Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas de Defunciones Registradas (EDR), January–March 2026 (preliminary). Release 36/26; 18 September 2026. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/edr/EDR2026-1erT_RR.pdf
 2. OECD. Health at a Glance 2025: country note, Mexico. https://www.oecd.org/content/dam/oecd/es/publications/reports/2025/11/health-at-a-glance-2025-country-notes_2f94481e/mexico_0c55bf71/42bdb5b4-es.pdf
@@ -594,3 +656,5 @@ Real patients do not arrive with a textbook presentation: they arrive with an in
 16. Borrayo-Sánchez G, Pérez-Rodríguez G, Martínez-Montañez OG, Almeida-Gutiérrez E, Ramírez-Arias E, Estrada-Gallegos J, et al. Protocolo para atención de infarto agudo de miocardio en urgencias: Código infarto. Rev Med Inst Mex Seguro Soc. 2017;55(2):233-59. https://pubmed.ncbi.nlm.nih.gov/28296374/
 17. Goyal A, Singh B, Ahmed I, et al. Unstable Angina. [Updated 2025 Jun 22]. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2025. https://www.ncbi.nlm.nih.gov/books/NBK442000/
 18. Croskerry P. The importance of cognitive errors in diagnosis and strategies to minimize them. Acad Med. 2003;78(8):775-80. https://pubmed.ncbi.nlm.nih.gov/12915363/
+19. Køber L, Adamo M, Ruwald AC, Tomasoni D, Anderson LJ, Andersson C, et al. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026;47(38):5346-5457. https://doi.org/10.1093/eurheartj/ehag100
+20. Miró Ò, Chioncel O, Mebazaa A, Sato N, Butler J, Davison B, et al. Early diagnosis and treatment of acute heart failure in prehospital and emergency settings. Part 1 of the International Expert Opinion Series on acute heart failure management. Eur J Emerg Med. 2025;32(6):392-404. https://doi.org/10.1097/MEJ.0000000000001270
